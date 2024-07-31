@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Chat Archive Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Discord Chat Archive Viewer</h1>
+
+        <div id="import-container">
+            <p>Drag and drop your ZIP file here or click to select</p>
+            <input type="file" id="fileInput" accept=".zip" style="display: none;">
+            <button id="import-button">Import ZIP</button>
+            <div id="fileInfo">No file selected</div>
+            <div id="progressBarContainer" style="display: none;">
+                <div id="progressBar">
+                    <span id="progressText">0%</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="chat-container"></div>
+
+        <footer id="footer">
+            Made with ❤️ by <a href="https://github.com/madman38" target="_blank">madman38</a>
+        </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

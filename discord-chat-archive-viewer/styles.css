@@ -1,0 +1,212 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #36393f;
+    color: #dcddde;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #36393f;
+    padding: 20px;
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+    color: #7289da;
+    margin-bottom: 30px;
+}
+#import-container {
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px dashed #7289da;
+    padding: 20px;
+    border-radius: 10px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+#import-container p {
+    margin-bottom: 15px;
+}
+#import-container.dragover {
+    background-color: rgba(114, 137, 218, 0.1);
+}
+#import-button {
+    background-color: #7289da;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+#import-button:hover {
+    background-color: #5b6eae;
+}
+#fileInfo {
+    margin-top: 10px;
+    font-style: italic;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+#chat-container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.message {
+    display: flex;
+    margin-bottom: 20px;
+}
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+.message-content {
+    flex-grow: 1;
+    min-width: 0;
+}
+.username {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.timestamp {
+    color: #72767d;
+    font-size: 0.8em;
+    margin-left: 10px;
+}
+.text {
+    margin-top: 5px;
+    margin-bottom: 8px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+.attachment img {
+    max-width: 100%;
+    border-radius: 3px;
+}
+.mention {
+    background-color: rgba(88, 101, 242, 0.3);
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 0 2px;
+    font-weight: 500;
+}
+.attachment {
+    margin-top: 10px;
+    max-width: 100%;
+}
+
+.attachment-image, .inline-image {
+    max-width: 100%;
+    max-height: 300px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.tenor-gif-embed, .giphy-embed {
+    width: 100%;
+    height: 300px;
+    border: none;
+    margin-top: 5px;
+}
+
+.attachment-audio {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.attachment-video {
+    max-width: 100%;
+}
+
+.download-button {
+    display: inline-block;
+    background-color: #7289da;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.download-button:hover {
+    background-color: #5b6eae;
+}
+.loading-animation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.spinner {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top: 4px solid #7289da;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.loading-animation p {
+    margin-top: 20px;
+    color: #dcddde;
+}
+#progressBarContainer {
+    width: 100%;
+    background-color: #2f3136;
+    border-radius: 5px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+#progressBar {
+    width: 0;
+    height: 20px;
+    background-color: #43b581;
+    transition: width 0.3s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#progressText {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.custom-emoji {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+#footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    color: #72767d;
+    font-size: 0.9em;
+}
+
+#footer a {
+    color: #7289da;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}
