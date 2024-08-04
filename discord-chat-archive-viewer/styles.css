@@ -200,13 +200,19 @@ h1 {
     padding: 10px;
     color: #72767d;
     font-size: 0.9em;
-}
-
-#footer a {
+  }
+  
+  #footer a {
     color: #7289da;
     text-decoration: none;
-}
-
-#footer a:hover {
+  }
+  
+  #footer a:hover {
     text-decoration: underline;
-}
+  }
+  
+  #visitor-counter {
+    margin-top: 10px;
+    max-width: 100%;
+    height: auto;
+  }
