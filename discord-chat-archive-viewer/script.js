@@ -239,14 +239,26 @@ function createAttachmentElement(fileName, blob) {
         source.type = 'audio/mpeg';
         audio.appendChild(source);
         attachmentDiv.appendChild(audio);
-    } else if (['mp4', 'webm'].includes(fileExtension)) {
+    } else if (['mp4', 'webm', 'mov'].includes(fileExtension)) {
         const video = document.createElement('video');
         video.controls = true;
         video.className = 'attachment-video';
         const source = document.createElement('source');
         source.src = url;
-        source.type = `video/${fileExtension}`;
+        
+        if (fileExtension === 'mov') {
+            source.type = 'video/quicktime';
+        } else {
+            source.type = `video/${fileExtension}`;
+        }
+        
         video.appendChild(source);
+        
+        // Add fallback message
+        const fallbackMessage = document.createElement('p');
+        fallbackMessage.textContent = 'Your browser does not support the video tag.';
+        video.appendChild(fallbackMessage);
+        
         attachmentDiv.appendChild(video);
     } else {
         const downloadButton = document.createElement('a');
