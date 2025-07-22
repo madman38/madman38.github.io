@@ -15,8 +15,45 @@ body {
 h1 {
     text-align: center;
     color: #7289da;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
+.description {
+    text-align: center;
+    margin: 0 auto 30px;
+    font-size: 1.1em;
+    background: linear-gradient(90deg, #4f545c20, #4f545c40, #4f545c20);
+    padding: 15px 25px;
+    border-radius: 4px;
+    line-height: 1.6;
+    color: #fff;
+}
+
+.description p {
+    margin: 0;
+    display: inline-block;
+}
+
+.description-icon {
+    font-size: 1.5em;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.description a {
+    color: #7289da;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: 3px;
+    background-color: rgba(114, 137, 218, 0.1);
+    transition: all 0.2s ease;
+}
+
+.description a:hover {
+    background-color: rgba(114, 137, 218, 0.2);
+    color: #fff;
+}
+
 #import-container {
     margin-bottom: 20px;
     text-align: center;
