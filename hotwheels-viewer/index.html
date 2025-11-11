@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hot Wheels Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Hot Wheels Viewer</h1>
+        <div class="subtitle">
+            <span class="subtitle-icon">🏎️</span>
+            <span>Download Hot Wheels data with this ➡️
+                <a href="https://github.com/madman38/hotwheels-scraper" target="_blank">@madman38/hotwheels-scraper</a>
+            </span>
+        </div>
+        
+        <div class="drop-zone" id="dropZone">
+            <div class="drop-zone-text">📁 Upload JSON File</div>
+            <div class="drop-zone-subtext">Drag and drop your file here or click to browse</div>
+        </div>
+        <input type="file" id="jsonFileInput" class="file-input-hidden" accept="application/json">
+        
+        <div id="filename-display"></div>
+        
+        <table id="dataTable" style="display: none;">
+            <thead>
+                <tr>
+                    <th>Toy ID</th>
+                    <th>Model Name</th>
+                    <th>Series</th>
+                    <th>Series Number</th>
+                    <th>Photo</th>
+                    <th>Year</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+    <footer id="footer">
+        Made with ❤️ by <a href="https://github.com/madman38" target="_blank">madman38</a>
+        <br>
+        <img src="https://moe-counter.glitch.me/get/@hwviewer3838" id="visitor-counter" alt="Visitor Counter">
+    </footer>
+</body>
+</html>
