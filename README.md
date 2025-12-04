@@ -1,4 +1,4 @@
 # madman38.github.io
 # [Discord Chat Archive Viewer](https://madman38.github.io/discord-chat-archive-viewer)
 # [Hot Wheels Viewer](https://madman38.github.io/hotwheels-viewer)
-# [WBO Blocker](https://madman38.github.io/wbo-blocker)
+# [WCO Blocker](https://madman38.github.io/wcoblocker)
