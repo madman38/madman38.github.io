@@ -121,6 +121,24 @@ body {
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
 }
 
+.addon-button-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 30px 0;
+}
+
+.addon-button {
+    display: inline-block;
+}
+
+.addon-image {
+    max-width: 250px;
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+}
+
 .footer {
     text-align: center;
     padding: 18px;
@@ -168,5 +186,9 @@ body {
 
     .nagscreen-image {
         max-width: 280px;
+    }
+
+    .addon-image {
+        max-width: 200px;
     }
 }
