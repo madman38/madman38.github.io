@@ -25,7 +25,7 @@ body {
     overflow: hidden;
 }
 
-/* Sidebar */
+/* Sidebar Layout */
 .sidebar {
     width: 280px; flex-shrink: 0;
     background: var(--bg-panel);
@@ -44,6 +44,23 @@ body {
     background: transparent; border: none; color: var(--text-dim); font-size: 20px; cursor: pointer; display: none;
 }
 .item-list-container { flex: 1; overflow-y: auto; padding: 5px; }
+
+/* Fixed Counter at Sidebar Bottom */
+.sidebar-footer-counter {
+    padding: 15px;
+    border-top: 1px solid var(--line-color);
+    background: var(--bg-panel);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+.sidebar-footer-counter img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    pointer-events: auto; /* Ensures analytic track links still trigger if needed */
+}
 
 /* Tiers */
 .tier-group { margin-bottom: 2px; }
@@ -162,7 +179,7 @@ body {
     flex-direction: column;
     overflow: hidden;
     box-shadow: 0 4px 15px rgba(0,0,0,0.4);
-    width: 60px; /* Base width for zoom buttons */
+    width: 60px;
 }
 
 /* Tree controls need to be wider to fit the text */
