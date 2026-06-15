@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Growtopia Seed Architect</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <h2>Items</h2>
+            <div class="search-container">
+                <input type="text" id="sidebarSearch" placeholder="Search items...">
+                <button id="clearSearch" title="Clear Search">×</button>
+            </div>
+        </div>
+        <div id="fullItemList" class="item-list-container"></div>
+    </aside>
+
+    <main class="viewport" id="viewport">
+        <div id="emptyState" class="placeholder">Select an item from the sidebar</div>
+
+        <!-- Combined Action Controls (Top Right) -->
+        <div class="controls-container">
+            <!-- Zoom Group -->
+            <div class="control-group zoom-controls">
+                <button title="Zoom In" onclick="changeZoom(0.1)">+</button>
+                <button title="Reset Zoom" onclick="resetZoom()" id="zoomPercent">100%</button>
+                <button title="Zoom Out" onclick="changeZoom(-0.1)">-</button>
+            </div>
+
+            <!-- Tree Logic Group (Hidden until item selected) -->
+            <div class="control-group tree-controls" id="treeControls" style="display: none;">
+                <button onclick="expandAll()" title="Expand All Nodes">Expand All</button>
+                <button onclick="collapseAll()" title="Collapse All Nodes">Collapse All</button>
+            </div>
+        </div>
+
+        <div id="zoomWrapper" class="zoom-wrapper">
+            <div id="treeContent" class="tree"></div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

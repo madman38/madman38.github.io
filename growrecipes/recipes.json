@@ -1,0 +1,4938 @@
+{
+  "Tier 1": [
+    {
+      "item": "Aqua Cave Crystal",
+      "seed1": "In a Cave-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Aqua_Cave_Crystal.png"
+    },
+    {
+      "item": "Boulder",
+      "seed1": "In a Desert-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Boulder.png"
+    },
+    {
+      "item": "Cave Background",
+      "seed1": "In a newly-created world.",
+      "seed2": null,
+      "image_path": "item_sprites/Cave_Background.png"
+    },
+    {
+      "item": "Cave Dirt",
+      "seed1": "In a Cave-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Cave_Dirt.png"
+    },
+    {
+      "item": "Churro Block",
+      "seed1": "From smashing an Ultra Pinata.",
+      "seed2": null,
+      "image_path": "item_sprites/Churro_Block.png"
+    },
+    {
+      "item": "Crystal Block",
+      "seed1": "Its seed is obtained from a Special Event. Can be obtained from Golden Treasure Hoard.",
+      "seed2": null,
+      "image_path": "item_sprites/Crystal_Block.png"
+    },
+    {
+      "item": "Dark Cave Background",
+      "seed1": "In a Cave-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Dark_Cave_Background.png"
+    },
+    {
+      "item": "Deep Rock",
+      "seed1": "In an Undersea-blasted or Jungle-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Deep_Rock.png"
+    },
+    {
+      "item": "Deep Sand",
+      "seed1": "In an Undersea-blasted or Jungle-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Deep_Sand.png"
+    },
+    {
+      "item": "Dirt",
+      "seed1": "In a newly-created world.",
+      "seed2": null,
+      "image_path": "item_sprites/Dirt.png"
+    },
+    {
+      "item": "Frozen Stone Cliffs",
+      "seed1": "In a Treasure-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Frozen_Stone_Cliffs.png"
+    },
+    {
+      "item": "Garbage",
+      "seed1": "This item was obtainable in the world GARBAGEMOUNTAIN, which is owned by @HAMUMU. It is also a possible drop from crushing clothes in a Clothing Compactor.",
+      "seed2": null,
+      "image_path": "item_sprites/Garbage.png"
+    },
+    {
+      "item": "Happy Unicorn Block",
+      "seed1": "A drop from an Awkward Friendly Unicorn.",
+      "seed2": null,
+      "image_path": "item_sprites/Happy_Unicorn_Block.png"
+    },
+    {
+      "item": "Lava",
+      "seed1": "In a newly-created world.",
+      "seed2": null,
+      "image_path": "item_sprites/Lava.png"
+    },
+    {
+      "item": "Magic Egg",
+      "seed1": "A random drop in a world during Easter Week, or the Easter Basket Pack.",
+      "seed2": null,
+      "image_path": "item_sprites/Magic_Egg.png"
+    },
+    {
+      "item": "Mars Rock",
+      "seed1": "In a Mars-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Mars_Rock.png"
+    },
+    {
+      "item": "Martian Soil",
+      "seed1": "In a Mars-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Martian_Soil.png"
+    },
+    {
+      "item": "Obelisk",
+      "seed1": "In a Desert-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Obelisk.png"
+    },
+    {
+      "item": "Ocean Rock",
+      "seed1": "In a Beach-blasted or Undersea-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Ocean_Rock.png"
+    },
+    {
+      "item": "Rock",
+      "seed1": "In a newly-created world.",
+      "seed2": null,
+      "image_path": "item_sprites/Rock.png"
+    },
+    {
+      "item": "Sand",
+      "seed1": "In a Desert-blasted or Beach-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Sand.png"
+    },
+    {
+      "item": "Sandstone Wall",
+      "seed1": "In a Desert-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Sandstone_Wall.png"
+    },
+    {
+      "item": "Starship Floor Tile",
+      "seed1": "In a Starship-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Starship_Floor_Tile.png"
+    },
+    {
+      "item": "Starship Wall",
+      "seed1": "In a Starship-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Starship_Wall.png"
+    },
+    {
+      "item": "Weeping Willow Branch",
+      "seed1": "In a Harvest Moon-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Weeping_Willow_Branch.png"
+    },
+    {
+      "item": "Weeping Willow Foliage",
+      "seed1": "In a Harvest Moon-blasted world.",
+      "seed2": null,
+      "image_path": "item_sprites/Weeping_Willow_Foliage.png"
+    }
+  ],
+  "Tier 2": [
+    {
+      "item": "Cave Column",
+      "seed1": "Cave Dirt",
+      "seed2": "Dark Cave Background",
+      "image_path": "item_sprites/Cave_Column.png"
+    },
+    {
+      "item": "Door",
+      "seed1": "Dirt",
+      "seed2": "Cave Background",
+      "image_path": "item_sprites/Door.png"
+    },
+    {
+      "item": "Glass Pane",
+      "seed1": "Rock",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Glass_Pane.png"
+    },
+    {
+      "item": "Grass",
+      "seed1": "Dirt",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Grass.png"
+    },
+    {
+      "item": "Lava Rock",
+      "seed1": "Cave Background",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Lava_Rock.png"
+    },
+    {
+      "item": "Martian Tree",
+      "seed1": "Martian Soil",
+      "seed2": "Mars Rock",
+      "image_path": "item_sprites/Martian_Tree.png"
+    },
+    {
+      "item": "Sign",
+      "seed1": "Cave Background",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Sign.png"
+    },
+    {
+      "item": "Weeping Willow Streamers",
+      "seed1": "Weeping Willow Foliage",
+      "seed2": "Weeping Willow Branch",
+      "image_path": "item_sprites/Weeping_Willow_Streamers.png"
+    },
+    {
+      "item": "Wood Block",
+      "seed1": "Dirt",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Wood_Block.png"
+    }
+  ],
+  "Tier 3": [
+    {
+      "item": "Amber Glass",
+      "seed1": "Dirt",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Amber_Glass.png"
+    },
+    {
+      "item": "Bricks",
+      "seed1": "Rock",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Bricks.png"
+    },
+    {
+      "item": "Cargo Shorts",
+      "seed1": "Dirt",
+      "seed2": "Wood Block",
+      "image_path": "item_sprites/Cargo_Shorts.png"
+    },
+    {
+      "item": "Crappy Sign",
+      "seed1": "Dirt",
+      "seed2": "Door",
+      "image_path": "item_sprites/Crappy_Sign.png"
+    },
+    {
+      "item": "Daisy",
+      "seed1": "Dirt",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Daisy.png"
+    },
+    {
+      "item": "Happy Joy Plaque",
+      "seed1": "Door",
+      "seed2": "Cave Background",
+      "image_path": "item_sprites/Happy_Joy_Plaque.png"
+    },
+    {
+      "item": "Mushroom",
+      "seed1": "Cave Background",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Mushroom.png"
+    },
+    {
+      "item": "Pointy Sign",
+      "seed1": "Door",
+      "seed2": "Sign",
+      "image_path": "item_sprites/Pointy_Sign.png"
+    },
+    {
+      "item": "Rock Background",
+      "seed1": "Rock",
+      "seed2": "Door",
+      "image_path": "item_sprites/Rock_Background.png"
+    },
+    {
+      "item": "Rose",
+      "seed1": "Grass",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Rose.png"
+    },
+    {
+      "item": "Super Crate Box",
+      "seed1": "Dirt",
+      "seed2": "Sign",
+      "image_path": "item_sprites/Super_Crate_Box.png"
+    },
+    {
+      "item": "Terracotta Pot",
+      "seed1": "Martian Tree",
+      "seed2": "Martian Soil",
+      "image_path": "item_sprites/Terracotta_Pot.png"
+    },
+    {
+      "item": "Torch",
+      "seed1": "Sign",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Torch.png"
+    },
+    {
+      "item": "Wheat",
+      "seed1": "Grass",
+      "seed2": "Sand",
+      "image_path": "item_sprites/Wheat.png"
+    },
+    {
+      "item": "Wooden Background",
+      "seed1": "Grass",
+      "seed2": "Door",
+      "image_path": "item_sprites/Wooden_Background.png"
+    },
+    {
+      "item": "Wooden Platform",
+      "seed1": "Wood Block",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Wooden_Platform.png"
+    }
+  ],
+  "Tier 4": [
+    {
+      "item": "Aqua Block",
+      "seed1": "Bricks",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Aqua_Block.png"
+    },
+    {
+      "item": "Black Block",
+      "seed1": "Bricks",
+      "seed2": "Cave Background",
+      "image_path": "item_sprites/Black_Block.png"
+    },
+    {
+      "item": "Brown Block",
+      "seed1": "Bricks",
+      "seed2": "Dirt",
+      "image_path": "item_sprites/Brown_Block.png"
+    },
+    {
+      "item": "Cliffside",
+      "seed1": "Rock Background",
+      "seed2": "Boulder",
+      "image_path": "item_sprites/Cliffside.png"
+    },
+    {
+      "item": "Danger Sign",
+      "seed1": "Lava",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Danger_Sign.png"
+    },
+    {
+      "item": "Flowery Wallpaper",
+      "seed1": "Wooden Background",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Flowery_Wallpaper.png"
+    },
+    {
+      "item": "Green Block",
+      "seed1": "Bricks",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Green_Block.png"
+    },
+    {
+      "item": "Grey Block",
+      "seed1": "Bricks",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Grey_Block.png"
+    },
+    {
+      "item": "Hand Torch",
+      "seed1": "Torch",
+      "seed2": "Cave Dirt",
+      "image_path": "item_sprites/Hand_Torch.png"
+    },
+    {
+      "item": "Messy Brown Hair",
+      "seed1": "Crappy Sign",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Messy_Brown_Hair.png"
+    },
+    {
+      "item": "Mini Blocks",
+      "seed1": "Sandstone Wall",
+      "seed2": "Terracotta Pot",
+      "image_path": "item_sprites/Mini_Blocks.png"
+    },
+    {
+      "item": "Mud Glob",
+      "seed1": "Daisy",
+      "seed2": "Dirt",
+      "image_path": "item_sprites/Mud_Glob.png"
+    },
+    {
+      "item": "Pastel Bricks",
+      "seed1": "Magic Egg",
+      "seed2": "Bricks",
+      "image_path": "item_sprites/Pastel_Bricks.png"
+    },
+    {
+      "item": "Pastel Pants",
+      "seed1": "Magic Egg",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Pastel_Pants.png"
+    },
+    {
+      "item": "Poppy",
+      "seed1": "Rose",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Poppy.png"
+    },
+    {
+      "item": "Red Block",
+      "seed1": "Bricks",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Red_Block.png"
+    },
+    {
+      "item": "Shallot Mustache",
+      "seed1": "Mushroom",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Shallot_Mustache.png"
+    },
+    {
+      "item": "Stinky Socks",
+      "seed1": "Mushroom",
+      "seed2": "Dirt",
+      "image_path": "item_sprites/Stinky_Socks.png"
+    },
+    {
+      "item": "Tan Shirt",
+      "seed1": "Rock Background",
+      "seed2": "Dirt",
+      "image_path": "item_sprites/Tan_Shirt.png"
+    },
+    {
+      "item": "White Block",
+      "seed1": "Bricks",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/White_Block.png"
+    },
+    {
+      "item": "Window",
+      "seed1": "Glass Pane",
+      "seed2": "Wooden Background",
+      "image_path": "item_sprites/Window.png"
+    },
+    {
+      "item": "Wooden Table",
+      "seed1": "Wooden Platform",
+      "seed2": "Wood Block",
+      "image_path": "item_sprites/Wooden_Table.png"
+    },
+    {
+      "item": "Yellow Block",
+      "seed1": "Bricks",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Yellow_Block.png"
+    }
+  ],
+  "Tier 5": [
+    {
+      "item": "Barn Block",
+      "seed1": "Super Crate Box",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Barn_Block.png"
+    },
+    {
+      "item": "Biker Stache",
+      "seed1": "Brown Block",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Biker_Stache.png"
+    },
+    {
+      "item": "Black Pants",
+      "seed1": "Black Block",
+      "seed2": "Door",
+      "image_path": "item_sprites/Black_Pants.png"
+    },
+    {
+      "item": "Blonde Bombshell",
+      "seed1": "Yellow Block",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Blonde_Bombshell.png"
+    },
+    {
+      "item": "Boots",
+      "seed1": "Black Block",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Boots.png"
+    },
+    {
+      "item": "Brick Background",
+      "seed1": "Bricks",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Brick_Background.png"
+    },
+    {
+      "item": "Brown Hair",
+      "seed1": "Brown Block",
+      "seed2": "Dirt",
+      "image_path": "item_sprites/Brown_Hair.png"
+    },
+    {
+      "item": "Brown Shoes",
+      "seed1": "Brown Block",
+      "seed2": "Cave Background",
+      "image_path": "item_sprites/Brown_Shoes.png"
+    },
+    {
+      "item": "Bunny Mask",
+      "seed1": "Magic Egg",
+      "seed2": "Flowery Wallpaper",
+      "image_path": "item_sprites/Bunny_Mask.png"
+    },
+    {
+      "item": "Bush",
+      "seed1": "Poppy",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Bush.png"
+    },
+    {
+      "item": "Cyclopean Visor",
+      "seed1": "Window",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Cyclopean_Visor.png"
+    },
+    {
+      "item": "Death Spikes",
+      "seed1": "Danger Sign",
+      "seed2": "Rock Background",
+      "image_path": "item_sprites/Death_Spikes.png"
+    },
+    {
+      "item": "Dungeon Door",
+      "seed1": "Door",
+      "seed2": "Window",
+      "image_path": "item_sprites/Dungeon_Door.png"
+    },
+    {
+      "item": "Evil Bricks",
+      "seed1": "Black Block",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Evil_Bricks.png"
+    },
+    {
+      "item": "Flashlight",
+      "seed1": "Black Block",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Flashlight.png"
+    },
+    {
+      "item": "Flower Sarong",
+      "seed1": "Pastel Pink Flower Block",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Flower_Sarong.png"
+    },
+    {
+      "item": "Glass Block",
+      "seed1": "Aqua Block",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Glass_Block.png"
+    },
+    {
+      "item": "Gold-Rimmed Glasses",
+      "seed1": "Yellow Block",
+      "seed2": "Window",
+      "image_path": "item_sprites/Gold-Rimmed_Glasses.png"
+    },
+    {
+      "item": "Green Shirt",
+      "seed1": "Grass",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Green_Shirt.png"
+    },
+    {
+      "item": "Green Skirt",
+      "seed1": "Poppy",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Green_Skirt.png"
+    },
+    {
+      "item": "Hot Head",
+      "seed1": "Red Block",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Hot_Head.png"
+    },
+    {
+      "item": "Jeans",
+      "seed1": "Aqua Block",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Jeans.png"
+    },
+    {
+      "item": "Leopard Leggings",
+      "seed1": "Cliffside",
+      "seed2": "Pastel Orange Block",
+      "image_path": "item_sprites/Leopard_Leggings.png"
+    },
+    {
+      "item": "Long Brown Hair",
+      "seed1": "Wooden Table",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Long_Brown_Hair.png"
+    },
+    {
+      "item": "Lovely Pink Dress",
+      "seed1": "Flowery Wallpaper",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Lovely_Pink_Dress.png"
+    },
+    {
+      "item": "Orange Block",
+      "seed1": "Bricks",
+      "seed2": "Poppy",
+      "image_path": "item_sprites/Orange_Block.png"
+    },
+    {
+      "item": "Painting: Dink Duck",
+      "seed1": "Yellow Block",
+      "seed2": "Wooden Background",
+      "image_path": "item_sprites/Painting_Dink_Duck.png"
+    },
+    {
+      "item": "Painting: Yerfdog",
+      "seed1": "White Block",
+      "seed2": "Wooden Background",
+      "image_path": "item_sprites/Painting_Yerfdog.png"
+    },
+    {
+      "item": "Pastel Aqua Block",
+      "seed1": "Magic Egg",
+      "seed2": "Aqua Block",
+      "image_path": "item_sprites/Pastel_Aqua_Block.png"
+    },
+    {
+      "item": "Pastel Green Block",
+      "seed1": "Magic Egg",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Pastel_Green_Block.png"
+    },
+    {
+      "item": "Pastel Pink Block",
+      "seed1": "Magic Egg",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Pastel_Pink_Block.png"
+    },
+    {
+      "item": "Pastel Yellow Block",
+      "seed1": "Magic Egg",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Pastel_Yellow_Block.png"
+    },
+    {
+      "item": "Pencil",
+      "seed1": "Yellow Block",
+      "seed2": "Wood Block",
+      "image_path": "item_sprites/Pencil.png"
+    },
+    {
+      "item": "Red Bricks",
+      "seed1": "Red Block",
+      "seed2": "Bricks",
+      "image_path": "item_sprites/Red_Bricks.png"
+    },
+    {
+      "item": "Red Hair",
+      "seed1": "Grass",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Red_Hair.png"
+    },
+    {
+      "item": "Red Riding Hood",
+      "seed1": "Red Block",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Red_Riding_Hood.png"
+    },
+    {
+      "item": "Red Wood Wall",
+      "seed1": "Red Block",
+      "seed2": "Wooden Background",
+      "image_path": "item_sprites/Red_Wood_Wall.png"
+    },
+    {
+      "item": "Referee Shirt",
+      "seed1": "Black Block",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Referee_Shirt.png"
+    },
+    {
+      "item": "Rock Platform",
+      "seed1": "Cliffside",
+      "seed2": "Mars Rock",
+      "image_path": "item_sprites/Rock_Platform.png"
+    },
+    {
+      "item": "Rooster Hat",
+      "seed1": "Yellow Block",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Rooster_Hat.png"
+    },
+    {
+      "item": "Santa Hat",
+      "seed1": "Red Block",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Santa_Hat.png"
+    },
+    {
+      "item": "Santa Pants",
+      "seed1": "Lava",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Santa_Pants.png"
+    },
+    {
+      "item": "Santa Vest",
+      "seed1": "Lava",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Santa_Vest.png"
+    },
+    {
+      "item": "Sheet Music: Blank",
+      "seed1": "Super Crate Box",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Sheet_Music_Blank.png"
+    },
+    {
+      "item": "Shades",
+      "seed1": "Black Block",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Shades.png"
+    },
+    {
+      "item": "Stone Wall",
+      "seed1": "Grey Block",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Stone_Wall.png"
+    },
+    {
+      "item": "Stripey Wallpaper",
+      "seed1": "Aqua Block",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Stripey_Wallpaper.png"
+    },
+    {
+      "item": "Toilet",
+      "seed1": "Crappy Sign",
+      "seed2": "Brown Block",
+      "image_path": "item_sprites/Toilet.png"
+    },
+    {
+      "item": "Top Hat",
+      "seed1": "Black Block",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Top_Hat.png"
+    },
+    {
+      "item": "Tuxedo",
+      "seed1": "Grey Block",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Tuxedo.png"
+    },
+    {
+      "item": "Wooden Window",
+      "seed1": "Window",
+      "seed2": "Wooden Background",
+      "image_path": "item_sprites/Wooden_Window.png"
+    },
+    {
+      "item": "Worthless Rags",
+      "seed1": "Dirt",
+      "seed2": "Mud Glob",
+      "image_path": "item_sprites/Worthless_Rags.png"
+    },
+    {
+      "item": "X-Ray Specs",
+      "seed1": "Glass Pane",
+      "seed2": "White Block",
+      "image_path": "item_sprites/X-Ray_Specs.png"
+    }
+  ],
+  "Tier 6": [
+    {
+      "item": "Afro",
+      "seed1": "Bush",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Afro.png"
+    },
+    {
+      "item": "Asbestos Boots",
+      "seed1": "Evil Bricks",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Asbestos_Boots.png"
+    },
+    {
+      "item": "Axolotl Hoodie",
+      "seed1": "Pastel Pink Block",
+      "seed2": "Magic Infused Stone",
+      "image_path": "item_sprites/Axolotl_Hoodie.png"
+    },
+    {
+      "item": "Barn Door",
+      "seed1": "Door",
+      "seed2": "Barn Block",
+      "image_path": "item_sprites/Barn_Door.png"
+    },
+    {
+      "item": "Barrel",
+      "seed1": "Dungeon Door",
+      "seed2": "Super Crate Box",
+      "image_path": "item_sprites/Barrel.png"
+    },
+    {
+      "item": "Baseball Cap",
+      "seed1": "Bush",
+      "seed2": "Wooden Platform",
+      "image_path": "item_sprites/Baseball_Cap.png"
+    },
+    {
+      "item": "Bathtub",
+      "seed1": "Toilet",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Bathtub.png"
+    },
+    {
+      "item": "Big Glasses",
+      "seed1": "Window",
+      "seed2": "Wooden Window",
+      "image_path": "item_sprites/Big_Glasses.png"
+    },
+    {
+      "item": "Big Old Sideways Arrow",
+      "seed1": "Orange Block",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Big_Old_Sideways_Arrow.png"
+    },
+    {
+      "item": "Biohazard Sign",
+      "seed1": "Danger Sign",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Biohazard_Sign.png"
+    },
+    {
+      "item": "Blueberry",
+      "seed1": "Bush",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Blueberry.png"
+    },
+    {
+      "item": "Briefcase",
+      "seed1": "Brown Block",
+      "seed2": "Stripey Wallpaper",
+      "image_path": "item_sprites/Briefcase.png"
+    },
+    {
+      "item": "Bunny Tail",
+      "seed1": "Magic Egg",
+      "seed2": "Bush",
+      "image_path": "item_sprites/Bunny_Tail.png"
+    },
+    {
+      "item": "Burglar Mask",
+      "seed1": "Cave Background",
+      "seed2": "Brick Background",
+      "image_path": "item_sprites/Burglar_Mask.png"
+    },
+    {
+      "item": "Cactus",
+      "seed1": "Death Spikes",
+      "seed2": "Bush",
+      "image_path": "item_sprites/Cactus.png"
+    },
+    {
+      "item": "Cave Platform",
+      "seed1": "Cave Column",
+      "seed2": "Rock Platform",
+      "image_path": "item_sprites/Cave_Platform.png"
+    },
+    {
+      "item": "Checker Wallpaper",
+      "seed1": "Window",
+      "seed2": "Evil Bricks",
+      "image_path": "item_sprites/Checker_Wallpaper.png"
+    },
+    {
+      "item": "Cuzco Wall Mount",
+      "seed1": "Painting: Yerfdog",
+      "seed2": "Dungeon Door",
+      "image_path": "item_sprites/Cuzco_Wall_Mount.png"
+    },
+    {
+      "item": "Devil Horns",
+      "seed1": "Lava",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Devil_Horns.png"
+    },
+    {
+      "item": "Dresser",
+      "seed1": "Wooden Table",
+      "seed2": "Dungeon Door",
+      "image_path": "item_sprites/Dresser.png"
+    },
+    {
+      "item": "Egg Shell Spikes",
+      "seed1": "Magic Egg",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Egg_Shell_Spikes.png"
+    },
+    {
+      "item": "Exclamation Sign",
+      "seed1": "Barn Block",
+      "seed2": "Martian Tree",
+      "image_path": "item_sprites/Exclamation_Sign.png"
+    },
+    {
+      "item": "Flat-top",
+      "seed1": "Rock Platform",
+      "seed2": "Wooden Table",
+      "image_path": "item_sprites/Flat-top.png"
+    },
+    {
+      "item": "Foliage",
+      "seed1": "Bush",
+      "seed2": "Hedge",
+      "image_path": "item_sprites/Foliage.png"
+    },
+    {
+      "item": "Froghat",
+      "seed1": "Aqua Block",
+      "seed2": "Bush",
+      "image_path": "item_sprites/Froghat.png"
+    },
+    {
+      "item": "Gambler's Visor",
+      "seed1": "Green Block",
+      "seed2": "Glass Block",
+      "image_path": "item_sprites/Gambler's_Visor.png"
+    },
+    {
+      "item": "Green Blouse",
+      "seed1": "Bush",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Green_Blouse.png"
+    },
+    {
+      "item": "Grimstone",
+      "seed1": "Grass",
+      "seed2": "Stone Wall",
+      "image_path": "item_sprites/Grimstone.png"
+    },
+    {
+      "item": "House Entrance",
+      "seed1": "Dungeon Door",
+      "seed2": "Door",
+      "image_path": "item_sprites/House_Entrance.png"
+    },
+    {
+      "item": "Messy Auburn Tresses",
+      "seed1": "Red Bricks",
+      "seed2": "Crappy Sign",
+      "image_path": "item_sprites/Messy_Auburn_Tresses.png"
+    },
+    {
+      "item": "Olde Timey Radio",
+      "seed1": "Toilet",
+      "seed2": "Dungeon Door",
+      "image_path": "item_sprites/Olde_Timey_Radio.png"
+    },
+    {
+      "item": "Orange",
+      "seed1": "Poppy",
+      "seed2": "Bush",
+      "image_path": "item_sprites/Orange.png"
+    },
+    {
+      "item": "Pastel Aqua Flower Block",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Aqua Block",
+      "image_path": "item_sprites/Pastel_Aqua_Flower_Block.png"
+    },
+    {
+      "item": "Pastel Green Flower Block",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Green Block",
+      "image_path": "item_sprites/Pastel_Green_Flower_Block.png"
+    },
+    {
+      "item": "Pastel Orange Block",
+      "seed1": "Magic Egg",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Pastel_Orange_Block.png"
+    },
+    {
+      "item": "Pastel Pink Flower Block",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Pink Block",
+      "image_path": "item_sprites/Pastel_Pink_Flower_Block.png"
+    },
+    {
+      "item": "Pastel Suit",
+      "seed1": "Magic Egg",
+      "seed2": "Painting: Dink Duck",
+      "image_path": "item_sprites/Pastel_Suit.png"
+    },
+    {
+      "item": "Pastel Yellow Flower Block",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Yellow Block",
+      "image_path": "item_sprites/Pastel_Yellow_Flower_Block.png"
+    },
+    {
+      "item": "Patent Leather Shoes",
+      "seed1": "Brick Background",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Patent_Leather_Shoes.png"
+    },
+    {
+      "item": "Pigtails",
+      "seed1": "Orange Block",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Pigtails.png"
+    },
+    {
+      "item": "Polka Dot Block",
+      "seed1": "White Block",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Polka_Dot_Block.png"
+    },
+    {
+      "item": "Portcullis",
+      "seed1": "Dungeon Door",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Portcullis.png"
+    },
+    {
+      "item": "Red Coat",
+      "seed1": "Red Block",
+      "seed2": "Bush",
+      "image_path": "item_sprites/Red_Coat.png"
+    },
+    {
+      "item": "Red Glass Block",
+      "seed1": "Glass Block",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Red_Glass_Block.png"
+    },
+    {
+      "item": "Rotten Egg",
+      "seed1": "Magic Egg",
+      "seed2": "Evil Bricks",
+      "image_path": "item_sprites/Rotten_Egg.png"
+    },
+    {
+      "item": "Sidewalk",
+      "seed1": "Red Bricks",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Sidewalk.png"
+    },
+    {
+      "item": "Sheet Music: Drums",
+      "seed1": "Sheet Music: Blank",
+      "seed2": "Brown Block",
+      "image_path": "item_sprites/Sheet_Music_Drums.png"
+    },
+    {
+      "item": "Sheet Music: Piano Note",
+      "seed1": "Sheet Music: Blank",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Sheet_Music_Piano_Note.png"
+    },
+    {
+      "item": "Sheet Music: Sax Note",
+      "seed1": "Sheet Music: Blank",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Sheet_Music_Sax_Note.png"
+    },
+    {
+      "item": "Spikey Hair",
+      "seed1": "Death Spikes",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Spikey_Hair.png"
+    },
+    {
+      "item": "Staircase",
+      "seed1": "Red Wood Wall",
+      "seed2": "Wooden Platform",
+      "image_path": "item_sprites/Staircase.png"
+    },
+    {
+      "item": "Stalactite",
+      "seed1": "Dark Cave Background",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Stalactite.png"
+    },
+    {
+      "item": "Stalagmite",
+      "seed1": "Cave Dirt",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Stalagmite.png"
+    },
+    {
+      "item": "Sword",
+      "seed1": "Death Spikes",
+      "seed2": "Rock Background",
+      "image_path": "item_sprites/Sword.png"
+    },
+    {
+      "item": "Texas Limestone",
+      "seed1": "Stone Wall",
+      "seed2": "Cliffside",
+      "image_path": "item_sprites/Texas_Limestone.png"
+    },
+    {
+      "item": "Tiger Block",
+      "seed1": "Black Block",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Tiger_Block.png"
+    },
+    {
+      "item": "Tomato",
+      "seed1": "Red Bricks",
+      "seed2": "Mud Glob",
+      "image_path": "item_sprites/Tomato.png"
+    },
+    {
+      "item": "Twisted Spikes",
+      "seed1": "Death Spikes",
+      "seed2": "Evil Bricks",
+      "image_path": "item_sprites/Twisted_Spikes.png"
+    },
+    {
+      "item": "Viking Helmet",
+      "seed1": "Stone Wall",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Viking_Helmet.png"
+    },
+    {
+      "item": "Water Bucket",
+      "seed1": "Toilet",
+      "seed2": "Aqua Block",
+      "image_path": "item_sprites/Water_Bucket.png"
+    },
+    {
+      "item": "White Beard",
+      "seed1": "White Block",
+      "seed2": "Bush",
+      "image_path": "item_sprites/White_Beard.png"
+    },
+    {
+      "item": "Window Curtains",
+      "seed1": "Window",
+      "seed2": "Pastel Pink Block",
+      "image_path": "item_sprites/Window_Curtains.png"
+    },
+    {
+      "item": "Wooden Chair",
+      "seed1": "Wooden Platform",
+      "seed2": "Toilet",
+      "image_path": "item_sprites/Wooden_Chair.png"
+    }
+  ],
+  "Tier 7": [
+    {
+      "item": "Ancient Stone Gate",
+      "seed1": "Portcullis",
+      "seed2": "Sandstone Wall",
+      "image_path": "item_sprites/Ancient_Stone_Gate.png"
+    },
+    {
+      "item": "Apple",
+      "seed1": "Blueberry",
+      "seed2": "Red Bricks",
+      "image_path": "item_sprites/Apple.png"
+    },
+    {
+      "item": "Aqua Hair",
+      "seed1": "Happy Unicorn Block",
+      "seed2": "Pastel Aqua Flower Block",
+      "image_path": "item_sprites/Aqua_Hair.png"
+    },
+    {
+      "item": "Arrow Placard",
+      "seed1": "Big Old Sideways Arrow",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Arrow_Placard.png"
+    },
+    {
+      "item": "Barky's Mask",
+      "seed1": "Barrel",
+      "seed2": "Painting: Yerfdog",
+      "image_path": "item_sprites/Barky's_Mask.png"
+    },
+    {
+      "item": "Baseball Bat",
+      "seed1": "House Entrance",
+      "seed2": "Sign",
+      "image_path": "item_sprites/Baseball_Bat.png"
+    },
+    {
+      "item": "Bed",
+      "seed1": "Wooden Chair",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Bed.png"
+    },
+    {
+      "item": "Big Old Down Arrow",
+      "seed1": "Devil Horns",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Big_Old_Down_Arrow.png"
+    },
+    {
+      "item": "Blue Block",
+      "seed1": "Blueberry",
+      "seed2": "Bricks",
+      "image_path": "item_sprites/Blue_Block.png"
+    },
+    {
+      "item": "Brainwave Capacitor",
+      "seed1": "Olde Timey Radio",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Brainwave_Capacitor.png"
+    },
+    {
+      "item": "Bubble Wrap",
+      "seed1": "Blueberry",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Bubble_Wrap.png"
+    },
+    {
+      "item": "Bunny Ears",
+      "seed1": "Magic Egg",
+      "seed2": "Polka Dot Block",
+      "image_path": "item_sprites/Bunny_Ears.png"
+    },
+    {
+      "item": "Climbing Vine",
+      "seed1": "Foliage",
+      "seed2": "Staircase",
+      "image_path": "item_sprites/Climbing_Vine.png"
+    },
+    {
+      "item": "Clown Nose",
+      "seed1": "Tomato",
+      "seed2": "Happy Joy Plaque",
+      "image_path": "item_sprites/Clown_Nose.png"
+    },
+    {
+      "item": "Clown Pants",
+      "seed1": "Happy Joy Plaque",
+      "seed2": "Polka Dot Block",
+      "image_path": "item_sprites/Clown_Pants.png"
+    },
+    {
+      "item": "Command - Move",
+      "seed1": "Olde Timey Radio",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Command_-_Move.png"
+    },
+    {
+      "item": "Dark Aqua Block",
+      "seed1": "Grimstone",
+      "seed2": "Aqua Block",
+      "image_path": "item_sprites/Dark_Aqua_Block.png"
+    },
+    {
+      "item": "Dark Brown Block",
+      "seed1": "Grimstone",
+      "seed2": "Brown Block",
+      "image_path": "item_sprites/Dark_Brown_Block.png"
+    },
+    {
+      "item": "Dark Green Block",
+      "seed1": "Grimstone",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Dark_Green_Block.png"
+    },
+    {
+      "item": "Dark Grey Block",
+      "seed1": "Grimstone",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Dark_Grey_Block.png"
+    },
+    {
+      "item": "Dark Orange Block",
+      "seed1": "Grimstone",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Dark_Orange_Block.png"
+    },
+    {
+      "item": "Dark Red Block",
+      "seed1": "Grimstone",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Dark_Red_Block.png"
+    },
+    {
+      "item": "Dark Yellow Block",
+      "seed1": "Grimstone",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Dark_Yellow_Block.png"
+    },
+    {
+      "item": "Dotted Dress",
+      "seed1": "Polka Dot Block",
+      "seed2": "Red Royal Wallpaper",
+      "image_path": "item_sprites/Dotted_Dress.png"
+    },
+    {
+      "item": "Gargoyle",
+      "seed1": "Grimstone",
+      "seed2": "Devil Horns",
+      "image_path": "item_sprites/Gargoyle.png"
+    },
+    {
+      "item": "Grey Hair Bun",
+      "seed1": "Olde Timey Radio",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Grey_Hair_Bun.png"
+    },
+    {
+      "item": "Flower Sarong",
+      "seed1": "Pastel Pink Flower Block",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Flower_Sarong.png"
+    },
+    {
+      "item": "Ice Crust Block",
+      "seed1": "Water Bucket",
+      "seed2": "Glass Block",
+      "image_path": "item_sprites/Ice_Crust_Block.png"
+    },
+    {
+      "item": "Just One Boxing Glove",
+      "seed1": "Blueberry",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Just_One_Boxing_Glove.png"
+    },
+    {
+      "item": "Lattice Background",
+      "seed1": "Wooden Chair",
+      "seed2": "Wooden Background",
+      "image_path": "item_sprites/Lattice_Background.png"
+    },
+    {
+      "item": "Leaf Block",
+      "seed1": "Foliage",
+      "seed2": "Pastel Green Flower Block",
+      "image_path": "item_sprites/Leaf_Block.png"
+    },
+    {
+      "item": "Leopard Leggings",
+      "seed1": "Pastel Orange Block",
+      "seed2": "Cliffside",
+      "image_path": "item_sprites/Leopard_Leggings.png"
+    },
+    {
+      "item": "Long Black Hair",
+      "seed1": "Portcullis",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Long_Black_Hair.png"
+    },
+    {
+      "item": "Monster Feet",
+      "seed1": "Devil Horns",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Monster_Feet.png"
+    },
+    {
+      "item": "Old-Timey Hat",
+      "seed1": "Olde Timey Radio",
+      "seed2": "Brown Block",
+      "image_path": "item_sprites/Old-Timey_Hat.png"
+    },
+    {
+      "item": "Party Polka Shirt",
+      "seed1": "Polka Dot Block",
+      "seed2": "Blue Royal Wallpaper",
+      "image_path": "item_sprites/Party_Polka_Shirt.png"
+    },
+    {
+      "item": "Pastel Dress - Aqua",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Aqua Flower Block",
+      "image_path": "item_sprites/Pastel_Dress_-_Aqua.png"
+    },
+    {
+      "item": "Pastel Dress - Green",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Green Flower Block",
+      "image_path": "item_sprites/Pastel_Dress_-_Green.png"
+    },
+    {
+      "item": "Pastel Dress - Pink",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Pink Flower Block",
+      "image_path": "item_sprites/Pastel_Dress_-_Pink.png"
+    },
+    {
+      "item": "Pastel Dress - Yellow",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Yellow Flower Block",
+      "image_path": "item_sprites/Pastel_Dress_-_Yellow.png"
+    },
+    {
+      "item": "Pastel Mondrian Block",
+      "seed1": "Magic Egg",
+      "seed2": "Grimstone",
+      "image_path": "item_sprites/Pastel_Mondrian_Block.png"
+    },
+    {
+      "item": "Pastel Orange Flower Block",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Orange Block",
+      "image_path": "item_sprites/Pastel_Orange_Flower_Block.png"
+    },
+    {
+      "item": "Pickaxe",
+      "seed1": "Portcullis",
+      "seed2": "Cave Background",
+      "image_path": "item_sprites/Pickaxe.png"
+    },
+    {
+      "item": "Picket Fence",
+      "seed1": "Wooden Chair",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Picket_Fence.png"
+    },
+    {
+      "item": "Pink Hair",
+      "seed1": "Happy Unicorn Block",
+      "seed2": "Pastel Pink Flower Block",
+      "image_path": "item_sprites/Pink_Hair.png"
+    },
+    {
+      "item": "Platinum Blonde Hair",
+      "seed1": "White Block",
+      "seed2": "Pastel Yellow Flower Block",
+      "image_path": "item_sprites/Platinum_Blonde_Hair.png"
+    },
+    {
+      "item": "Plumbing",
+      "seed1": "Bathtub",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Plumbing.png"
+    },
+    {
+      "item": "Rock Hammer",
+      "seed1": "Cave Platform",
+      "seed2": "Stalagmite",
+      "image_path": "item_sprites/Rock_Hammer.png"
+    },
+    {
+      "item": "Rubber Ducky",
+      "seed1": "Bathtub",
+      "seed2": "Painting: Dink Duck",
+      "image_path": "item_sprites/Rubber_Ducky.png"
+    },
+    {
+      "item": "Sabertooth-Skin Toga",
+      "seed1": "Pastel Orange Block",
+      "seed2": "Polka Dot Block",
+      "image_path": "item_sprites/Sabertooth-Skin_Toga.png"
+    },
+    {
+      "item": "Salt Block",
+      "seed1": "Texas Limestone",
+      "seed2": "Stalactite",
+      "image_path": "item_sprites/Salt_Block.png"
+    },
+    {
+      "item": "Sandstone",
+      "seed1": "Cactus",
+      "seed2": "Dirt",
+      "image_path": "item_sprites/Sandstone.png"
+    },
+    {
+      "item": "School Desk",
+      "seed1": "Orange Block",
+      "seed2": "Wooden Chair",
+      "image_path": "item_sprites/School_Desk.png"
+    },
+    {
+      "item": "Seaweed",
+      "seed1": "Bush",
+      "seed2": "Water Bucket",
+      "image_path": "item_sprites/Seaweed.png"
+    },
+    {
+      "item": "Secret Passage",
+      "seed1": "Big Old Sideways Arrow",
+      "seed2": "Wood Block",
+      "image_path": "item_sprites/Secret_Passage.png"
+    },
+    {
+      "item": "Sexy Boxers",
+      "seed1": "Polka Dot Block",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Sexy_Boxers.png"
+    },
+    {
+      "item": "Sheet Music: Flat Piano",
+      "seed1": "Sheet Music: Piano Note",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Sheet_Music_Flat_Piano.png"
+    },
+    {
+      "item": "Sheet Music: Flat Sax",
+      "seed1": "Sheet Music: Sax Note",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Sheet_Music_Flat_Sax.png"
+    },
+    {
+      "item": "Sheet Music: Sharp Piano",
+      "seed1": "Sheet Music: Piano Note",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Sheet_Music_Sharp_Piano.png"
+    },
+    {
+      "item": "Sheet Music: Sharp Sax",
+      "seed1": "Sheet Music: Sax Note",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Sheet_Music_Sharp_Sax.png"
+    },
+    {
+      "item": "Shredded T-Shirt",
+      "seed1": "Devil Horns",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Shredded_T-Shirt.png"
+    },
+    {
+      "item": "Snorkel",
+      "seed1": "Bathtub",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Snorkel.png"
+    },
+    {
+      "item": "Street Sign",
+      "seed1": "Pointy Sign",
+      "seed2": "Sidewalk",
+      "image_path": "item_sprites/Street_Sign.png"
+    },
+    {
+      "item": "Tangram Block",
+      "seed1": "Checker Wallpaper",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Tangram_Block.png"
+    },
+    {
+      "item": "Tenement Building",
+      "seed1": "House Entrance",
+      "seed2": "Garbage",
+      "image_path": "item_sprites/Tenement_Building.png"
+    },
+    {
+      "item": "Tie Dyed Shirt",
+      "seed1": "Polka Dot Block",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Tie_Dyed_Shirt.png"
+    },
+    {
+      "item": "TV Head",
+      "seed1": "Olde Timey Radio",
+      "seed2": "Wood Block",
+      "image_path": "item_sprites/TV_Head.png"
+    },
+    {
+      "item": "Wrought-Iron Fence",
+      "seed1": "Portcullis",
+      "seed2": "Pencil",
+      "image_path": "item_sprites/Wrought-Iron_Fence.png"
+    },
+    {
+      "item": "Zombie-Stompin' Boots",
+      "seed1": "Grimstone",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Zombie-Stompin'_Boots.png"
+    }
+  ],
+  "Tier 8": [
+    {
+      "item": "Acid",
+      "seed1": "Plumbing",
+      "seed2": "Cactus",
+      "image_path": "item_sprites/Acid.png"
+    },
+    {
+      "item": "Air Duct",
+      "seed1": "Dark Grey Block",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Air_Duct.png"
+    },
+    {
+      "item": "Amphora",
+      "seed1": "Ancient Stone Gate",
+      "seed2": "Barrel",
+      "image_path": "item_sprites/Amphora.png"
+    },
+    {
+      "item": "Ancient Block",
+      "seed1": "Ancient Stone Gate",
+      "seed2": "Mini Blocks",
+      "image_path": "item_sprites/Ancient_Block.png"
+    },
+    {
+      "item": "Antidote",
+      "seed1": "Apple",
+      "seed2": "Blueberry",
+      "image_path": "item_sprites/Antidote.png"
+    },
+    {
+      "item": "Backpack",
+      "seed1": "Bed",
+      "seed2": "Super Crate Box",
+      "image_path": "item_sprites/Backpack.png"
+    },
+    {
+      "item": "Big Goofy Teeth",
+      "seed1": "Magic Egg",
+      "seed2": "Ancient Stone Gate",
+      "image_path": "item_sprites/Big_Goofy_Teeth.png"
+    },
+    {
+      "item": "Blue Glass Block",
+      "seed1": "Blue Block",
+      "seed2": "Glass Block",
+      "image_path": "item_sprites/Blue_Glass_Block.png"
+    },
+    {
+      "item": "Blue Star Wallpaper",
+      "seed1": "Blue Block",
+      "seed2": "Amber Glass",
+      "image_path": "item_sprites/Blue_Star_Wallpaper.png"
+    },
+    {
+      "item": "Checkered Pajamas",
+      "seed1": "Bed",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Checkered_Pajamas.png"
+    },
+    {
+      "item": "Cherry",
+      "seed1": "Dark Red Block",
+      "seed2": "Blueberry",
+      "image_path": "item_sprites/Cherry.png"
+    },
+    {
+      "item": "Climbing Wall",
+      "seed1": "Climbing Vine",
+      "seed2": "Cave Column",
+      "image_path": "item_sprites/Climbing_Wall.png"
+    },
+    {
+      "item": "Clown Shoes",
+      "seed1": "Rubber Ducky",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Clown_Shoes.png"
+    },
+    {
+      "item": "Copper Plumbing",
+      "seed1": "Plumbing",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Copper_Plumbing.png"
+    },
+    {
+      "item": "Coral",
+      "seed1": "Seaweed",
+      "seed2": "Ocean Rock",
+      "image_path": "item_sprites/Coral.png"
+    },
+    {
+      "item": "Dark Blue Block",
+      "seed1": "Blue Block",
+      "seed2": "Grimstone",
+      "image_path": "item_sprites/Dark_Blue_Block.png"
+    },
+    {
+      "item": "Das Red Balloon",
+      "seed1": "Bubble Wrap",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Das_Red_Balloon.png"
+    },
+    {
+      "item": "Diving Board",
+      "seed1": "Sandstone",
+      "seed2": "Wooden Platform",
+      "image_path": "item_sprites/Diving_Board.png"
+    },
+    {
+      "item": "Dreamstone Block",
+      "seed1": "Bed",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Dreamstone_Block.png"
+    },
+    {
+      "item": "For Sale Sign",
+      "seed1": "Street Sign",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/For_Sale_Sign.png"
+    },
+    {
+      "item": "Gem Sign",
+      "seed1": "Street Sign",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Gem_Sign.png"
+    },
+    {
+      "item": "Granite Block",
+      "seed1": "Sandstone",
+      "seed2": "Stone Wall",
+      "image_path": "item_sprites/Granite_Block.png"
+    },
+    {
+      "item": "Iron Bars",
+      "seed1": "Plumbing",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Iron_Bars.png"
+    },
+    {
+      "item": "Jade Block",
+      "seed1": "Dark Aqua Block",
+      "seed2": "Dark Green Block",
+      "image_path": "item_sprites/Jade_Block.png"
+    },
+    {
+      "item": "Jodhpurs",
+      "seed1": "Sandstone",
+      "seed2": "Window Curtains",
+      "image_path": "item_sprites/Jodhpurs.png"
+    },
+    {
+      "item": "Kansas Curls",
+      "seed1": "Pastel Yellow Block",
+      "seed2": "Rubber Ducky",
+      "image_path": "item_sprites/Kansas_Curls.png"
+    },
+    {
+      "item": "Long Black Bangs",
+      "seed1": "Big Old Down Arrow",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Long_Black_Bangs.png"
+    },
+    {
+      "item": "Long Blonde Bangs",
+      "seed1": "Big Old Down Arrow",
+      "seed2": "Sandstone Wall",
+      "image_path": "item_sprites/Long_Blonde_Bangs.png"
+    },
+    {
+      "item": "Military Radio",
+      "seed1": "Sheet Music: Sharp Piano",
+      "seed2": "Biohazard Sign",
+      "image_path": "item_sprites/Military_Radio.png"
+    },
+    {
+      "item": "Music Box",
+      "seed1": "Rubber Ducky",
+      "seed2": "Olde Timey Radio",
+      "image_path": "item_sprites/Music_Box.png"
+    },
+    {
+      "item": "Note Block",
+      "seed1": "Blue Block",
+      "seed2": "Olde Timey Radio",
+      "image_path": "item_sprites/Note_Block.png"
+    },
+    {
+      "item": "Outie Block",
+      "seed1": "Bubble Wrap",
+      "seed2": "Pastel Aqua Block",
+      "image_path": "item_sprites/Outie_Block.png"
+    },
+    {
+      "item": "Overgrown Vines",
+      "seed1": "Climbing Vine",
+      "seed2": "Dark Green Block",
+      "image_path": "item_sprites/Overgrown_Vines.png"
+    },
+    {
+      "item": "Pastel Blue Block",
+      "seed1": "Magic Egg",
+      "seed2": "Blue Block",
+      "image_path": "item_sprites/Pastel_Blue_Block.png"
+    },
+    {
+      "item": "Pastel Dress - Orange",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Orange Flower Block",
+      "image_path": "item_sprites/Pastel_Dress_-_Orange.png"
+    },
+    {
+      "item": "Peg Leg",
+      "seed1": "Rubber Ducky",
+      "seed2": "Wooden Table",
+      "image_path": "item_sprites/Peg_Leg.png"
+    },
+    {
+      "item": "Pitchfork",
+      "seed1": "Wrought-Iron Fence",
+      "seed2": "Crappy Sign",
+      "image_path": "item_sprites/Pitchfork.png"
+    },
+    {
+      "item": "Purple Block",
+      "seed1": "Blue Block",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Purple_Block.png"
+    },
+    {
+      "item": "Red Sweatpants",
+      "seed1": "Big Old Down Arrow",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Red_Sweatpants.png"
+    },
+    {
+      "item": "Rustic Fence",
+      "seed1": "Picket Fence",
+      "seed2": "Crappy Sign",
+      "image_path": "item_sprites/Rustic_Fence.png"
+    },
+    {
+      "item": "Screen Door",
+      "seed1": "Lattice Background",
+      "seed2": "Door",
+      "image_path": "item_sprites/Screen_Door.png"
+    },
+    {
+      "item": "Seagull",
+      "seed1": "Rubber Ducky",
+      "seed2": "Seaweed",
+      "image_path": "item_sprites/Seagull.png"
+    },
+    {
+      "item": "Secret Of Growtopia",
+      "seed1": "Secret Passage",
+      "seed2": "Sheet Music: Blank",
+      "image_path": "item_sprites/Secret_Of_Growtopia.png"
+    },
+    {
+      "item": "Sheet Music: Bass Note",
+      "seed1": "Blue Block",
+      "seed2": "Sheet Music: Blank",
+      "image_path": "item_sprites/Sheet_Music_Bass_Note.png"
+    },
+    {
+      "item": "Ski Cap",
+      "seed1": "Blue Block",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Ski_Cap.png"
+    },
+    {
+      "item": "Sugar Cane",
+      "seed1": "Happy Joy Plaque",
+      "seed2": "Seaweed",
+      "image_path": "item_sprites/Sugar_Cane.png"
+    },
+    {
+      "item": "Swiss Cheese Block",
+      "seed1": "Bubble Wrap",
+      "seed2": "Pastel Yellow Block",
+      "image_path": "item_sprites/Swiss_Cheese_Block.png"
+    },
+    {
+      "item": "Viney Block",
+      "seed1": "Dark Green Block",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Viney_Block.png"
+    },
+    {
+      "item": "Viney Wallpaper",
+      "seed1": "Dark Aqua Block",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Viney_Wallpaper.png"
+    },
+    {
+      "item": "Wall Like An Egyptian",
+      "seed1": "Sandstone",
+      "seed2": "Mud Glob",
+      "image_path": "item_sprites/Wall_Like_An_Egyptian.png"
+    },
+    {
+      "item": "Western Building",
+      "seed1": "Tenement Building",
+      "seed2": "Sand",
+      "image_path": "item_sprites/Western_Building.png"
+    },
+    {
+      "item": "Wicker Basket",
+      "seed1": "Magic Egg",
+      "seed2": "Lattice Background",
+      "image_path": "item_sprites/Wicker_Basket.png"
+    }
+  ],
+  "Tier 9": [
+    {
+      "item": "Air Vent",
+      "seed1": "Air Duct",
+      "seed2": "Window",
+      "image_path": "item_sprites/Air_Vent.png"
+    },
+    {
+      "item": "Antler Hat",
+      "seed1": "Das Red Balloon",
+      "seed2": "Cuzco Wall Mount",
+      "image_path": "item_sprites/Antler_Hat.png"
+    },
+    {
+      "item": "Big Old Up Arrow",
+      "seed1": "Das Red Balloon",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Big_Old_Up_Arrow.png"
+    },
+    {
+      "item": "Blue Skirt",
+      "seed1": "Blue Block",
+      "seed2": "Pastel Blue Block",
+      "image_path": "item_sprites/Blue_Skirt.png"
+    },
+    {
+      "item": "Blue Star Shoes",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Obelisk",
+      "image_path": "item_sprites/Blue_Star_Shoes.png"
+    },
+    {
+      "item": "Bubble Gum",
+      "seed1": "Das Red Balloon",
+      "seed2": "Pastel Pink Block",
+      "image_path": "item_sprites/Bubble_Gum.png"
+    },
+    {
+      "item": "Cutaway Building",
+      "seed1": "Western Building",
+      "seed2": "Tenement Building",
+      "image_path": "item_sprites/Cutaway_Building.png"
+    },
+    {
+      "item": "Card Block",
+      "seed1": "Tangram Block",
+      "seed2": "Das Red Balloon",
+      "image_path": "item_sprites/Card_Block.png"
+    },
+    {
+      "item": "Cash Register",
+      "seed1": "Military Radio",
+      "seed2": "Gargoyle",
+      "image_path": "item_sprites/Cash_Register.png"
+    },
+    {
+      "item": "Chocolate Cherry Block",
+      "seed1": "Cherry",
+      "seed2": "Dark Chocolate Block",
+      "image_path": "item_sprites/Chocolate_Cherry_Block.png"
+    },
+    {
+      "item": "Cloudstone Block",
+      "seed1": "Dreamstone Block",
+      "seed2": "Aqua Block",
+      "image_path": "item_sprites/Cloudstone_Block.png"
+    },
+    {
+      "item": "Cutaway Building",
+      "seed1": "Western Building",
+      "seed2": "Tenement Building",
+      "image_path": "item_sprites/Cutaway_Building.png"
+    },
+    {
+      "item": "Cutting Board",
+      "seed1": "Diving Board",
+      "seed2": "Wooden Table",
+      "image_path": "item_sprites/Cutting_Board.png"
+    },
+    {
+      "item": "Dark Purple Block",
+      "seed1": "Grimstone",
+      "seed2": "Purple Block",
+      "image_path": "item_sprites/Dark_Purple_Block.png"
+    },
+    {
+      "item": "Display Box",
+      "seed1": "Glass Block",
+      "seed2": "Music Box",
+      "image_path": "item_sprites/Display_Box.png"
+    },
+    {
+      "item": "Dress with Smock",
+      "seed1": "Stripey Wallpaper",
+      "seed2": "Diamond-Encrusted Draped Filigreed Jade Block",
+      "image_path": "item_sprites/Dress_with_Smock.png"
+    },
+    {
+      "item": "Ducky Pajama Pants",
+      "seed1": "Rubber Ducky",
+      "seed2": "Dreamstone Block",
+      "image_path": "item_sprites/Ducky_Pajama_Pants.png"
+    },
+    {
+      "item": "Easter Island Head",
+      "seed1": "Magic Egg",
+      "seed2": "Granite Block",
+      "image_path": "item_sprites/Easter_Island_Head.png"
+    },
+    {
+      "item": "Emerald Block",
+      "seed1": "Acid",
+      "seed2": "Crystal Block",
+      "image_path": "item_sprites/Emerald_Block.png"
+    },
+    {
+      "item": "Face Bandana",
+      "seed1": "Polka Dot Block",
+      "seed2": "Pastel Blue Block",
+      "image_path": "item_sprites/Face_Bandana.png"
+    },
+    {
+      "item": "Fuzzy Bikini Top",
+      "seed1": "Brown Block",
+      "seed2": "Outie Block",
+      "image_path": "item_sprites/Fuzzy_Bikini_Top.png"
+    },
+    {
+      "item": "Ghost Jar",
+      "seed1": "Amphora",
+      "seed2": "Aqua Cave Crystal",
+      "image_path": "item_sprites/Ghost_Jar.png"
+    },
+    {
+      "item": "Hippie Sandals",
+      "seed1": "Magic Egg",
+      "seed2": "Wall Like An Egyptian",
+      "image_path": "item_sprites/Hippie_Sandals.png"
+    },
+    {
+      "item": "Hospital Bed",
+      "seed1": "Bed",
+      "seed2": "Screen Door",
+      "image_path": "item_sprites/Hospital_Bed.png"
+    },
+    {
+      "item": "Igneous Rock",
+      "seed1": "Ocean Rock",
+      "seed2": "Swiss Cheese Block",
+      "image_path": "item_sprites/Igneous_Rock.png"
+    },
+    {
+      "item": "Innie Block",
+      "seed1": "Bubble Wrap",
+      "seed2": "Pastel Blue Block",
+      "image_path": "item_sprites/Innie_Block.png"
+    },
+    {
+      "item": "Jail Door",
+      "seed1": "Iron Bars",
+      "seed2": "Portcullis",
+      "image_path": "item_sprites/Jail_Door.png"
+    },
+    {
+      "item": "Kansas Pigtails",
+      "seed1": "Pigtails",
+      "seed2": "Kansas Curls",
+      "image_path": "item_sprites/Kansas_Pigtails.png"
+    },
+    {
+      "item": "Lollipop",
+      "seed1": "Purple Block",
+      "seed2": "Blueberry",
+      "image_path": "item_sprites/Lollipop.png"
+    },
+    {
+      "item": "Lollipop Garden",
+      "seed1": "Poppy",
+      "seed2": "Sugar Cane",
+      "image_path": "item_sprites/Lollipop_Garden.png"
+    },
+    {
+      "item": "Long Full Bangs",
+      "seed1": "Long Black Hair",
+      "seed2": "Long Black Bangs",
+      "image_path": "item_sprites/Long_Full_Bangs.png"
+    },
+    {
+      "item": "Marble Block",
+      "seed1": "Granite Block",
+      "seed2": "Dreamstone Block",
+      "image_path": "item_sprites/Marble_Block.png"
+    },
+    {
+      "item": "Monocle",
+      "seed1": "Music Box",
+      "seed2": "Window",
+      "image_path": "item_sprites/Monocle.png"
+    },
+    {
+      "item": "Neon Lights",
+      "seed1": "Glass Block",
+      "seed2": "Purple Block",
+      "image_path": "item_sprites/Neon_Lights.png"
+    },
+    {
+      "item": "Number Block",
+      "seed1": "Exclamation Sign",
+      "seed2": "Pastel Blue Block",
+      "image_path": "item_sprites/Number_Block.png"
+    },
+    {
+      "item": "Number",
+      "seed1": "Deep Rock",
+      "seed2": "Blue Glass Block",
+      "image_path": "item_sprites/Number.png"
+    },
+    {
+      "item": "Orange Stuff",
+      "seed1": "Coral",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Orange_Stuff.png"
+    },
+    {
+      "item": "Palm Tree",
+      "seed1": "Wall Like An Egyptian",
+      "seed2": "Pastel Green Block",
+      "image_path": "item_sprites/Palm_Tree.png"
+    },
+    {
+      "item": "Pastel Blue Flower Block",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Blue Block",
+      "image_path": "item_sprites/Pastel_Blue_Flower_Block.png"
+    },
+    {
+      "item": "Pastel Purple Block",
+      "seed1": "Magic Egg",
+      "seed2": "Purple Block",
+      "image_path": "item_sprites/Pastel_Purple_Block.png"
+    },
+    {
+      "item": "Path Marker",
+      "seed1": "Rustic Fence",
+      "seed2": "Exclamation Sign",
+      "image_path": "item_sprites/Path_Marker.png"
+    },
+    {
+      "item": "Ponytail",
+      "seed1": "Rustic Fence",
+      "seed2": "School Desk",
+      "image_path": "item_sprites/Ponytail.png"
+    },
+    {
+      "item": "Poodle Skirt",
+      "seed1": "Das Red Balloon",
+      "seed2": "Dreamstone Block",
+      "image_path": "item_sprites/Poodle_Skirt.png"
+    },
+    {
+      "item": "Potted Daisy",
+      "seed1": "Amphora",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Potted_Daisy.png"
+    },
+    {
+      "item": "Purple Bikini Top",
+      "seed1": "Purple Block",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Purple_Bikini_Top.png"
+    },
+    {
+      "item": "Purple Mohawk",
+      "seed1": "Picket Fence",
+      "seed2": "Purple Block",
+      "image_path": "item_sprites/Purple_Mohawk.png"
+    },
+    {
+      "item": "Purple Stuff",
+      "seed1": "Coral",
+      "seed2": "Purple Block",
+      "image_path": "item_sprites/Purple_Stuff.png"
+    },
+    {
+      "item": "Purple Thong",
+      "seed1": "Purple Block",
+      "seed2": "Danger Sign",
+      "image_path": "item_sprites/Purple_Thong.png"
+    },
+    {
+      "item": "Puzzle Brick",
+      "seed1": "Outie Block",
+      "seed2": "Evil Bricks",
+      "image_path": "item_sprites/Puzzle_Brick.png"
+    },
+    {
+      "item": "Race Start Flag",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Race_Start_Flag.png"
+    },
+    {
+      "item": "Rainbow Block",
+      "seed1": "Purple Block",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Rainbow_Block.png"
+    },
+    {
+      "item": "Rice",
+      "seed1": "Hedge",
+      "seed2": "Viney Block",
+      "image_path": "item_sprites/Rice.png"
+    },
+    {
+      "item": "Ruby Block",
+      "seed1": "Dreamstone Block",
+      "seed2": "Crystal Block",
+      "image_path": "item_sprites/Ruby_Block.png"
+    },
+    {
+      "item": "Saloon Doors",
+      "seed1": "Western Building",
+      "seed2": "Door",
+      "image_path": "item_sprites/Saloon_Doors.png"
+    },
+    {
+      "item": "Sheet Music: Sharp Bass",
+      "seed1": "Sheet Music: Bass Note",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Sheet_Music_Sharp_Bass.png"
+    },
+    {
+      "item": "Sheet Music: Flat Bass",
+      "seed1": "Sheet Music: Bass Note",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Sheet_Music_Flat_Bass.png"
+    },
+    {
+      "item": "Showgirl Headdress",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Portcullis",
+      "image_path": "item_sprites/Showgirl_Headdress.png"
+    },
+    {
+      "item": "Showgirl Leggings",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Lattice Background",
+      "image_path": "item_sprites/Showgirl_Leggings.png"
+    },
+    {
+      "item": "Sorcerer Stone",
+      "seed1": "Granite Block",
+      "seed2": "Googly-Eyed Diamond-Encrusted Draped Filigreed Jade Block",
+      "image_path": "item_sprites/Sorcerer_Stone.png"
+    },
+    {
+      "item": "Space Connector",
+      "seed1": "Copper Plumbing",
+      "seed2": "Gargoyle",
+      "image_path": "item_sprites/Space_Connector.png"
+    },
+    {
+      "item": "Starchild Makeup",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Starchild_Makeup.png"
+    },
+    {
+      "item": "Statue",
+      "seed1": "Tangram Block",
+      "seed2": "Ancient Block",
+      "image_path": "item_sprites/Statue.png"
+    },
+    {
+      "item": "Steam Door",
+      "seed1": "Draped Filigreed Jade Block",
+      "seed2": "Barn Door",
+      "image_path": "item_sprites/Steam_Door.png"
+    },
+    {
+      "item": "Steam Tubes",
+      "seed1": "Filigreed Jade Block",
+      "seed2": "Mission Block",
+      "image_path": "item_sprites/Steam_Tubes.png"
+    },
+    {
+      "item": "Steam Bellows",
+      "seed1": "Filigreed Jade Block",
+      "seed2": "Leaf Block",
+      "image_path": "item_sprites/Steam_Bellows.png"
+    },
+    {
+      "item": "Steel Block",
+      "seed1": "Purple Block",
+      "seed2": "Portcullis",
+      "image_path": "item_sprites/Steel_Block.png"
+    },
+    {
+      "item": "Stinky Bucket",
+      "seed1": "Swiss Cheese Block",
+      "seed2": "Barrel",
+      "image_path": "item_sprites/Stinky_Bucket.png"
+    },
+    {
+      "item": "Table Lamp",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Wooden Table",
+      "image_path": "item_sprites/Table_Lamp.png"
+    },
+    {
+      "item": "Telephone",
+      "seed1": "Music Box",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Telephone.png"
+    },
+    {
+      "item": "Toxic Waste Barrel",
+      "seed1": "Acid",
+      "seed2": "Barrel",
+      "image_path": "item_sprites/Toxic_Waste_Barrel.png"
+    },
+    {
+      "item": "Velvet Rope",
+      "seed1": "Copper Plumbing",
+      "seed2": "Big Old Sideways Arrow",
+      "image_path": "item_sprites/Velvet_Rope.png"
+    },
+    {
+      "item": "Water Balloon",
+      "seed1": "Das Red Balloon",
+      "seed2": "Water Bucket",
+      "image_path": "item_sprites/Water_Balloon.png"
+    },
+    {
+      "item": "Western Banner",
+      "seed1": "Western Building",
+      "seed2": "Sign",
+      "image_path": "item_sprites/Western_Banner.png"
+    },
+    {
+      "item": "3D Glasses",
+      "seed1": "Red Glass Block",
+      "seed2": "Blue Glass Block",
+      "image_path": "item_sprites/3D_Glasses.png"
+    }
+  ],
+  "Tier 10": [
+    {
+      "item": "Adventure Item - Key",
+      "seed1": "Wall Like An Egyptian",
+      "seed2": "Jail Door",
+      "image_path": "item_sprites/Adventure_Item_-_Key.png"
+    },
+    {
+      "item": "Adventure Item - Rope",
+      "seed1": "Wall Like An Egyptian",
+      "seed2": "Velvet Rope",
+      "image_path": "item_sprites/Adventure_Item_-_Rope.png"
+    },
+    {
+      "item": "Battle Pet Cage",
+      "seed1": "Steam Door",
+      "seed2": "Iron Bars",
+      "image_path": "item_sprites/Battle_Pet_Cage.png"
+    },
+    {
+      "item": "Bee Hair Pin",
+      "seed1": "Path Marker",
+      "seed2": "Tiger Block",
+      "image_path": "item_sprites/Bee_Hair_Pin.png"
+    },
+    {
+      "item": "Blue Wristband",
+      "seed1": "Race Start Flag",
+      "seed2": "Blueberry",
+      "image_path": "item_sprites/Blue_Wristband.png"
+    },
+    {
+      "item": "Bookcase",
+      "seed1": "Rainbow Block",
+      "seed2": "Dresser",
+      "image_path": "item_sprites/Bookcase.png"
+    },
+    {
+      "item": "Boombox",
+      "seed1": "Steel Block",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Boombox.png"
+    },
+    {
+      "item": "Buzz Cut Hair",
+      "seed1": "Black Block",
+      "seed2": "Cutting Board",
+      "image_path": "item_sprites/Buzz_Cut_Hair.png"
+    },
+    {
+      "item": "Cardboard Egg",
+      "seed1": "Magic Egg",
+      "seed2": "Igneous Rock",
+      "image_path": "item_sprites/Cardboard_Egg.png"
+    },
+    {
+      "item": "Checkpoint",
+      "seed1": "Cloudstone Block",
+      "seed2": "Bubble Wrap",
+      "image_path": "item_sprites/Checkpoint.png"
+    },
+    {
+      "item": "Chemsynth Tank",
+      "seed1": "Ghost Jar",
+      "seed2": "Water Balloon",
+      "image_path": "item_sprites/Chemsynth_Tank.png"
+    },
+    {
+      "item": "Clouds",
+      "seed1": "Cloudstone Block",
+      "seed2": "Glass Block",
+      "image_path": "item_sprites/Clouds.png"
+    },
+    {
+      "item": "Cottage Doorway",
+      "seed1": "Jail Door",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Cottage_Doorway.png"
+    },
+    {
+      "item": "Couch",
+      "seed1": "Hospital Bed",
+      "seed2": "Stripey Wallpaper",
+      "image_path": "item_sprites/Couch.png"
+    },
+    {
+      "item": "Cowboy Hat",
+      "seed1": "Sand",
+      "seed2": "Big Old Up Arrow",
+      "image_path": "item_sprites/Cowboy_Hat.png"
+    },
+    {
+      "item": "Crazy Purple Hair",
+      "seed1": "Sheet Music: Sharp Bass",
+      "seed2": "Coral",
+      "image_path": "item_sprites/Crazy_Purple_Hair.png"
+    },
+    {
+      "item": "Date",
+      "seed1": "Palm Tree",
+      "seed2": "Sugar Cane",
+      "image_path": "item_sprites/Date.png"
+    },
+    {
+      "item": "Display Block",
+      "seed1": "Display Box",
+      "seed2": "Steel Block",
+      "image_path": "item_sprites/Display_Block.png"
+    },
+    {
+      "item": "Donation Box",
+      "seed1": "Display Box",
+      "seed2": "Pastel Purple Block",
+      "image_path": "item_sprites/Donation_Box.png"
+    },
+    {
+      "item": "Drumkit",
+      "seed1": "Toxic Waste Barrel",
+      "seed2": "Sheet Music: Drums",
+      "image_path": "item_sprites/Drumkit.png"
+    },
+    {
+      "item": "Ducky Pajama Top",
+      "seed1": "Rubber Ducky",
+      "seed2": "Cloudstone Block",
+      "image_path": "item_sprites/Ducky_Pajama_Top.png"
+    },
+    {
+      "item": "Emerald Necklace",
+      "seed1": "Emerald Block",
+      "seed2": "Climbing Vine",
+      "image_path": "item_sprites/Emerald_Necklace.png"
+    },
+    {
+      "item": "Fairy Bread Block",
+      "seed1": "Rainbow Block",
+      "seed2": "Wheat",
+      "image_path": "item_sprites/Fairy_Bread_Block.png"
+    },
+    {
+      "item": "Farmgirl Hair",
+      "seed1": "Velvet Rope",
+      "seed2": "Poppy",
+      "image_path": "item_sprites/Farmgirl_Hair.png"
+    },
+    {
+      "item": "Fire Superpower Card",
+      "seed1": "Card Block",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Fire_Superpower_Card.png"
+    },
+    {
+      "item": "Fuzzy Bikini Bottom",
+      "seed1": "Brown Block",
+      "seed2": "Innie Block",
+      "image_path": "item_sprites/Fuzzy_Bikini_Bottom.png"
+    },
+    {
+      "item": "Ghost Trap",
+      "seed1": "Ghost Jar",
+      "seed2": "Military Radio",
+      "image_path": "item_sprites/Ghost_Trap.png"
+    },
+    {
+      "item": "Glowy Block",
+      "seed1": "Neon Lights",
+      "seed2": "Cutaway Building",
+      "image_path": "item_sprites/Glowy_Block.png"
+    },
+    {
+      "item": "Golden Block",
+      "seed1": "Steel Block",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Golden_Block.png"
+    },
+    {
+      "item": "g-Virus Info Sign",
+      "seed1": "Number Block",
+      "seed2": "Telephone",
+      "image_path": "item_sprites/g-Virus_Info_Sign.png"
+    },
+    {
+      "item": "Growsaber",
+      "seed1": "Crystal Block",
+      "seed2": "Neon Lights",
+      "image_path": "item_sprites/Growsaber.png"
+    },
+    {
+      "item": "Hot Pink Highlights",
+      "seed1": "Neon Lights",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Hot_Pink_Highlights.png"
+    },
+    {
+      "item": "Ice",
+      "seed1": "Cloudstone Block",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Ice.png"
+    },
+    {
+      "item": "Ice Superpower Card",
+      "seed1": "Card Block",
+      "seed2": "Aqua Block",
+      "image_path": "item_sprites/Ice_Superpower_Card.png"
+    },
+    {
+      "item": "Jellyfish",
+      "seed1": "Neon Lights",
+      "seed2": "Climbing Vine",
+      "image_path": "item_sprites/Jellyfish.png"
+    },
+    {
+      "item": "Jetpack",
+      "seed1": "Lava",
+      "seed2": "Steel Block",
+      "image_path": "item_sprites/Jetpack.png"
+    },
+    {
+      "item": "Jungle Fern",
+      "seed1": "Palm Tree",
+      "seed2": "Dark Green Block",
+      "image_path": "item_sprites/Jungle_Fern.png"
+    },
+    {
+      "item": "Ladder",
+      "seed1": "Big Old Up Arrow",
+      "seed2": "Wooden Platform",
+      "image_path": "item_sprites/Ladder.png"
+    },
+    {
+      "item": "Lightning Superpower Card",
+      "seed1": "Card Block",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Lightning_Superpower_Card.png"
+    },
+    {
+      "item": "Magic Bacon Wallpaper",
+      "seed1": "Rainbow Block",
+      "seed2": "House Entrance",
+      "image_path": "item_sprites/Magic_Bacon_Wallpaper.png"
+    },
+    {
+      "item": "Mailbox",
+      "seed1": "Steel Block",
+      "seed2": "Big Old Up Arrow",
+      "image_path": "item_sprites/Mailbox.png"
+    },
+    {
+      "item": "Makeup",
+      "seed1": "Purple Stuff",
+      "seed2": "Pastel Pink Flower Block",
+      "image_path": "item_sprites/Makeup.png"
+    },
+    {
+      "item": "Marquee Block",
+      "seed1": "Gem Sign",
+      "seed2": "Neon Lights",
+      "image_path": "item_sprites/Marquee_Block.png"
+    },
+    {
+      "item": "Med-A-Check",
+      "seed1": "Toxic Waste Barrel",
+      "seed2": "Screen Door",
+      "image_path": "item_sprites/Med-A-Check.png"
+    },
+    {
+      "item": "Muscle Suit",
+      "seed1": "Western Banner",
+      "seed2": "Pastel Yellow Flower Block",
+      "image_path": "item_sprites/Muscle_Suit.png"
+    },
+    {
+      "item": "Muscle Superpower Card",
+      "seed1": "Card Block",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Muscle_Superpower_Card.png"
+    },
+    {
+      "item": "Pacifier",
+      "seed1": "Happy Unicorn Block",
+      "seed2": "Pastel Blue Flower Block",
+      "image_path": "item_sprites/Pacifier.png"
+    },
+    {
+      "item": "Paint Bucket",
+      "seed1": "Dark Purple Block",
+      "seed2": "Dark Yellow Block",
+      "image_path": "item_sprites/Paint_Bucket.png"
+    },
+    {
+      "item": "Password Door",
+      "seed1": "Jail Door",
+      "seed2": "Steel Block",
+      "image_path": "item_sprites/Password_Door.png"
+    },
+    {
+      "item": "Pastel Dress - Blue",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Blue Flower Block",
+      "image_path": "item_sprites/Pastel_Dress_-_Blue.png"
+    },
+    {
+      "item": "Pastel Purple Flower Block",
+      "seed1": "Magic Egg",
+      "seed2": "Pastel Purple Block",
+      "image_path": "item_sprites/Pastel_Purple_Flower_Block.png"
+    },
+    {
+      "item": "Pepper Tree",
+      "seed1": "Palm Tree",
+      "seed2": "Apple",
+      "image_path": "item_sprites/Pepper_Tree.png"
+    },
+    {
+      "item": "Pillar",
+      "seed1": "Marble Block",
+      "seed2": "Ancient Stone Gate",
+      "image_path": "item_sprites/Pillar.png"
+    },
+    {
+      "item": "Pinball Bumper",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Steel Block",
+      "image_path": "item_sprites/Pinball_Bumper.png"
+    },
+    {
+      "item": "Pink Hair Bow",
+      "seed1": "Pastel Pink Flower Block",
+      "seed2": "Bubble Gum",
+      "image_path": "item_sprites/Pink_Hair_Bow.png"
+    },
+    {
+      "item": "Plate Mail",
+      "seed1": "Portcullis",
+      "seed2": "Steel Block",
+      "image_path": "item_sprites/Plate_Mail.png"
+    },
+    {
+      "item": "Porthole",
+      "seed1": "Space Connector",
+      "seed2": "Window",
+      "image_path": "item_sprites/Porthole.png"
+    },
+    {
+      "item": "Prehistoric Palm",
+      "seed1": "Palm Tree",
+      "seed2": "Cactus",
+      "image_path": "item_sprites/Prehistoric_Palm.png"
+    },
+    {
+      "item": "Preppy Blonde Hair",
+      "seed1": "Churro Block",
+      "seed2": "Number Block",
+      "image_path": "item_sprites/Preppy_Blonde_Hair.png"
+    },
+    {
+      "item": "Race End Flag",
+      "seed1": "Race Start Flag",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Race_End_Flag.png"
+    },
+    {
+      "item": "Rainbow Wings",
+      "seed1": "Ruby Block",
+      "seed2": "Emerald Block",
+      "image_path": "item_sprites/Rainbow_Wings.png"
+    },
+    {
+      "item": "Red Sportsball Jersey",
+      "seed1": "Big Old Up Arrow",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Red_Sportsball_Jersey.png"
+    },
+    {
+      "item": "Robot Wants Dubstep",
+      "seed1": "Note Block",
+      "seed2": "Steel Block",
+      "image_path": "item_sprites/Robot_Wants_Dubstep.png"
+    },
+    {
+      "item": "Rockin' Headband",
+      "seed1": "Velvet Rope",
+      "seed2": "Sheet Music: Sharp Bass",
+      "image_path": "item_sprites/Rockin'_Headband.png"
+    },
+    {
+      "item": "Roulette Wheel",
+      "seed1": "Card Block",
+      "seed2": "Cuzco Wall Mount",
+      "image_path": "item_sprites/Roulette_Wheel.png"
+    },
+    {
+      "item": "Safari Jacket",
+      "seed1": "Window Curtains",
+      "seed2": "Path Marker",
+      "image_path": "item_sprites/Safari_Jacket.png"
+    },
+    {
+      "item": "Science Station",
+      "seed1": "Toxic Waste Barrel",
+      "seed2": "Military Radio",
+      "image_path": "item_sprites/Science_Station.png"
+    },
+    {
+      "item": "Sequoia Tree",
+      "seed1": "Palm Tree",
+      "seed2": "Wooden Background",
+      "image_path": "item_sprites/Sequoia_Tree.png"
+    },
+    {
+      "item": "Sheet Music: Repeat Begin",
+      "seed1": "Sheet Music: Blank",
+      "seed2": "Race Start Flag",
+      "image_path": "item_sprites/Sheet_Music_Repeat_Begin.png"
+    },
+    {
+      "item": "Sheriff's Vest",
+      "seed1": "Jail Door",
+      "seed2": "Blue Star Wallpaper",
+      "image_path": "item_sprites/Sheriff's_Vest.png"
+    },
+    {
+      "item": "Shop Sign",
+      "seed1": "Western Banner",
+      "seed2": "Pastel Blue Block",
+      "image_path": "item_sprites/Shop_Sign.png"
+    },
+    {
+      "item": "Soda Jetpack",
+      "seed1": "Bubble Wrap",
+      "seed2": "Toxic Waste Barrel",
+      "image_path": "item_sprites/Soda_Jetpack.png"
+    },
+    {
+      "item": "Solar Panel",
+      "seed1": "Potted Daisy",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Solar_Panel.png"
+    },
+    {
+      "item": "Space Suit",
+      "seed1": "Innie Block",
+      "seed2": "Outie Block",
+      "image_path": "item_sprites/Space_Suit.png"
+    },
+    {
+      "item": "Spirit Board",
+      "seed1": "Puzzle Brick",
+      "seed2": "Cutting Board",
+      "image_path": "item_sprites/Spirit_Board.png"
+    },
+    {
+      "item": "Sports Bra",
+      "seed1": "Race Start Flag",
+      "seed2": "Outie Block",
+      "image_path": "item_sprites/Sports_Bra.png"
+    },
+    {
+      "item": "Stage Support",
+      "seed1": "Sheet Music: Flat Bass",
+      "seed2": "Wrought-Iron Fence",
+      "image_path": "item_sprites/Stage_Support.png"
+    },
+    {
+      "item": "Steam Collector",
+      "seed1": "Barrel",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Collector.png"
+    },
+    {
+      "item": "Steam Crossover",
+      "seed1": "Lattice Background",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Crossover.png"
+    },
+    {
+      "item": "Steam Funnel",
+      "seed1": "Big Old Sideways Arrow",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Funnel.png"
+    },
+    {
+      "item": "Steam Funnel - Down",
+      "seed1": "Big Old Down Arrow",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Funnel_-_Down.png"
+    },
+    {
+      "item": "Steam Funnel - Up",
+      "seed1": "Big Old Up Arrow",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Funnel_-_Up.png"
+    },
+    {
+      "item": "Steam Gear",
+      "seed1": "Asteroid",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Gear.png"
+    },
+    {
+      "item": "Steam Lifter Piston",
+      "seed1": "Viney Wallpaper",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Lifter_Piston.png"
+    },
+    {
+      "item": "Steam Pipe",
+      "seed1": "Copper Plumbing",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Pipe.png"
+    },
+    {
+      "item": "Steam Piston",
+      "seed1": "Viney Block",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Piston.png"
+    },
+    {
+      "item": "Steam Riser Bellows",
+      "seed1": "Steam Bellows",
+      "seed2": "Big Old Up Arrow",
+      "image_path": "item_sprites/Steam_Riser_Bellows.png"
+    },
+    {
+      "item": "Steel Girder",
+      "seed1": "Steel Block",
+      "seed2": "Lattice Background",
+      "image_path": "item_sprites/Steel_Girder.png"
+    },
+    {
+      "item": "Streetlamp",
+      "seed1": "Neon Lights",
+      "seed2": "Plumbing",
+      "image_path": "item_sprites/Streetlamp.png"
+    },
+    {
+      "item": "Surg-E",
+      "seed1": "Puzzle Brick",
+      "seed2": "Hospital Bed",
+      "image_path": "item_sprites/Surg-E.png"
+    },
+    {
+      "item": "Tank Top",
+      "seed1": "Stone Wall",
+      "seed2": "Jail Door",
+      "image_path": "item_sprites/Tank_Top.png"
+    },
+    {
+      "item": "Television",
+      "seed1": "Olde Timey Radio",
+      "seed2": "Saloon Doors",
+      "image_path": "item_sprites/Television.png"
+    },
+    {
+      "item": "The Darkness",
+      "seed1": "Steel Block",
+      "seed2": "Evil Bricks",
+      "image_path": "item_sprites/The_Darkness.png"
+    },
+    {
+      "item": "Writing Desk",
+      "seed1": "Cutting Board",
+      "seed2": "Pencil",
+      "image_path": "item_sprites/Writing_Desk.png"
+    }
+  ],
+  "Tier 11": [
+    {
+      "item": "Adventure Checkpoint",
+      "seed1": "Checkpoint",
+      "seed2": "Happy Joy Plaque",
+      "image_path": "item_sprites/Adventure_Checkpoint.png"
+    },
+    {
+      "item": "Adventure Item - Banana",
+      "seed1": "Wall Like An Egyptian",
+      "seed2": "Prehistoric Palm",
+      "image_path": "item_sprites/Adventure_Item_-_Banana.png"
+    },
+    {
+      "item": "Adventure Item - Golden Idol",
+      "seed1": "Wall Like An Egyptian",
+      "seed2": "Golden Block",
+      "image_path": "item_sprites/Adventure_Item_-_Golden_Idol.png"
+    },
+    {
+      "item": "Adventure Rope Piton",
+      "seed1": "Adventure Item - Rope",
+      "seed2": "Climbing Wall",
+      "image_path": "item_sprites/Adventure_Rope_Piton.png"
+    },
+    {
+      "item": "Air Conditioner",
+      "seed1": "Air Vent",
+      "seed2": "Solar Panel",
+      "image_path": "item_sprites/Air_Conditioner.png"
+    },
+    {
+      "item": "Air Robinsons",
+      "seed1": "Race End Flag",
+      "seed2": "Bubble Wrap",
+      "image_path": "item_sprites/Air_Robinsons.png"
+    },
+    {
+      "item": "Aqua Wallpaper",
+      "seed1": "Aqua Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Aqua_Wallpaper.png"
+    },
+    {
+      "item": "Art Wall",
+      "seed1": "Magic Bacon Wallpaper",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Art_Wall.png"
+    },
+    {
+      "item": "Audio Rack",
+      "seed1": "Steam Crossover",
+      "seed2": "Military Radio",
+      "image_path": "item_sprites/Audio_Rack.png"
+    },
+    {
+      "item": "Backwards Ballcap",
+      "seed1": "Wooden Platform",
+      "seed2": "Donation Box",
+      "image_path": "item_sprites/Backwards_Ballcap.png"
+    },
+    {
+      "item": "Baneful Mask",
+      "seed1": "The Darkness",
+      "seed2": "Plumbing",
+      "image_path": "item_sprites/Baneful_Mask.png"
+    },
+    {
+      "item": "Basketball Hoop",
+      "seed1": "Adventure Item - Rope",
+      "seed2": "Streetlamp",
+      "image_path": "item_sprites/Basketball_Hoop.png"
+    },
+    {
+      "item": "Battle Leash",
+      "seed1": "Battle Pet Cage",
+      "seed2": "Gem Sign",
+      "image_path": "item_sprites/Battle_Leash.png"
+    },
+    {
+      "item": "Black Beret",
+      "seed1": "The Darkness",
+      "seed2": "Jellyfish",
+      "image_path": "item_sprites/Black_Beret.png"
+    },
+    {
+      "item": "Black-Rimmed Glasses",
+      "seed1": "The Darkness",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Black-Rimmed_Glasses.png"
+    },
+    {
+      "item": "Blackrock Wall",
+      "seed1": "The Darkness",
+      "seed2": "Lava Rock",
+      "image_path": "item_sprites/Blackrock_Wall.png"
+    },
+    {
+      "item": "Black Wallpaper",
+      "seed1": "Black Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Black_Wallpaper.png"
+    },
+    {
+      "item": "Blue Mailbox",
+      "seed1": "Mailbox",
+      "seed2": "Blue Block",
+      "image_path": "item_sprites/Blue_Mailbox.png"
+    },
+    {
+      "item": "Blue Wallpaper",
+      "seed1": "Blue Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Blue_Wallpaper.png"
+    },
+    {
+      "item": "Brown Wallpaper",
+      "seed1": "Brown Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Brown_Wallpaper.png"
+    },
+    {
+      "item": "Bushy Beard",
+      "seed1": "Bush",
+      "seed2": "Sequoia Tree",
+      "image_path": "item_sprites/Bushy_Beard.png"
+    },
+    {
+      "item": "Butterfly Hair Pin",
+      "seed1": "Path Marker",
+      "seed2": "Robot Wants Dubstep",
+      "image_path": "item_sprites/Butterfly_Hair_Pin.png"
+    },
+    {
+      "item": "Camo Pants",
+      "seed1": "Prehistoric Palm",
+      "seed2": "Cliffside",
+      "image_path": "item_sprites/Camo_Pants.png"
+    },
+    {
+      "item": "Cave Entrance",
+      "seed1": "The Darkness",
+      "seed2": "Cliffside",
+      "image_path": "item_sprites/Cave_Entrance.png"
+    },
+    {
+      "item": "Caveman Club",
+      "seed1": "Sequoia Tree",
+      "seed2": "Cutaway Building",
+      "image_path": "item_sprites/Caveman_Club.png"
+    },
+    {
+      "item": "Checkered Dress",
+      "seed1": "Race End Flag",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Checkered_Dress.png"
+    },
+    {
+      "item": "Chemsynth Solvent",
+      "seed1": "Chemsynth Tank",
+      "seed2": "Shampoo",
+      "image_path": "item_sprites/Chemsynth_Solvent.png"
+    },
+    {
+      "item": "Chicken",
+      "seed1": "Rubber Ducky",
+      "seed2": "Clouds",
+      "image_path": "item_sprites/Chicken.png"
+    },
+    {
+      "item": "Coffee Maker",
+      "seed1": "Science Station",
+      "seed2": "Exclamation Sign",
+      "image_path": "item_sprites/Coffee_Maker.png"
+    },
+    {
+      "item": "Command - Improved Shot",
+      "seed1": "Boombox",
+      "seed2": "Military Radio",
+      "image_path": "item_sprites/Command_-_Improved_Shot.png"
+    },
+    {
+      "item": "Cybernetic Arm",
+      "seed1": "Steel Girder",
+      "seed2": "Boombox",
+      "image_path": "item_sprites/Cybernetic_Arm.png"
+    },
+    {
+      "item": "Diamond Ring",
+      "seed1": "Golden Block",
+      "seed2": "Crystal Block",
+      "image_path": "item_sprites/Diamond_Ring.png"
+    },
+    {
+      "item": "Disco Ball",
+      "seed1": "Window",
+      "seed2": "Boombox",
+      "image_path": "item_sprites/Disco_Ball.png"
+    },
+    {
+      "item": "Display Shelf",
+      "seed1": "Bookcase",
+      "seed2": "Writing Desk",
+      "image_path": "item_sprites/Display_Shelf.png"
+    },
+    {
+      "item": "Diving Board Support",
+      "seed1": "Diving Board",
+      "seed2": "Stage Support",
+      "image_path": "item_sprites/Diving_Board_Support.png"
+    },
+    {
+      "item": "Elvish Longbow",
+      "seed1": "Ladder",
+      "seed2": "Big Old Sideways Arrow",
+      "image_path": "item_sprites/Elvish_Longbow.png"
+    },
+    {
+      "item": "Fashionable Dress",
+      "seed1": "Marquee Block",
+      "seed2": "Jade Block",
+      "image_path": "item_sprites/Fashionable_Dress.png"
+    },
+    {
+      "item": "Fire Escape",
+      "seed1": "Steel Girder",
+      "seed2": "Ladder",
+      "image_path": "item_sprites/Fire_Escape.png"
+    },
+    {
+      "item": "Fireplace",
+      "seed1": "Evil Bricks",
+      "seed2": "Golden Block",
+      "image_path": "item_sprites/Fireplace.png"
+    },
+    {
+      "item": "Fishbowl",
+      "seed1": "Ice",
+      "seed2": "Wooden Window",
+      "image_path": "item_sprites/Fishbowl.png"
+    },
+    {
+      "item": "Fishing Rod",
+      "seed1": "Adventure Item - Rope",
+      "seed2": "Sequoia Tree",
+      "image_path": "item_sprites/Fishing_Rod.png"
+    },
+    {
+      "item": "Fishnet Stockings",
+      "seed1": "The Darkness",
+      "seed2": "Boombox",
+      "image_path": "item_sprites/Fishnet_Stockings.png"
+    },
+    {
+      "item": "Flipping Coin",
+      "seed1": "Golden Block",
+      "seed2": "Sheet Music: Drums",
+      "image_path": "item_sprites/Flipping_Coin.png"
+    },
+    {
+      "item": "Flower Checkpoint",
+      "seed1": "Flowery Wallpaper",
+      "seed2": "Checkpoint",
+      "image_path": "item_sprites/Flower_Checkpoint.png"
+    },
+    {
+      "item": "Gold Chain",
+      "seed1": "Golden Block",
+      "seed2": "Climbing Vine",
+      "image_path": "item_sprites/Gold_Chain.png"
+    },
+    {
+      "item": "Golden Sword",
+      "seed1": "Golden Block",
+      "seed2": "Picket Fence",
+      "image_path": "item_sprites/Golden_Sword.png"
+    },
+    {
+      "item": "Green Wallpaper",
+      "seed1": "Green Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Green_Wallpaper.png"
+    },
+    {
+      "item": "Grey Wallpaper",
+      "seed1": "Grey Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Grey_Wallpaper.png"
+    },
+    {
+      "item": "Growbans",
+      "seed1": "The Darkness",
+      "seed2": "Window",
+      "image_path": "item_sprites/Growbans.png"
+    },
+    {
+      "item": "GrowBeats Headphones",
+      "seed1": "Boombox",
+      "seed2": "Note Block",
+      "image_path": "item_sprites/GrowBeats_Headphones.png"
+    },
+    {
+      "item": "Guestbook",
+      "seed1": "Bookcase",
+      "seed2": "Shop Sign",
+      "image_path": "item_sprites/Guestbook.png"
+    },
+    {
+      "item": "Hanging Guytrap",
+      "seed1": "Magic Bacon Wallpaper",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Hanging_Guytrap.png"
+    },
+    {
+      "item": "Happy Sun Shirt",
+      "seed1": "Solar Panel",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Happy_Sun_Shirt.png"
+    },
+    {
+      "item": "High Heels",
+      "seed1": "Stage Support",
+      "seed2": "Jade Block",
+      "image_path": "item_sprites/High_Heels.png"
+    },
+    {
+      "item": "High Tech Block",
+      "seed1": "Robot Wants Dubstep",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/High_Tech_Block.png"
+    },
+    {
+      "item": "High Tech Wall",
+      "seed1": "Robot Wants Dubstep",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/High_Tech_Wall.png"
+    },
+    {
+      "item": "Ice Sculptures",
+      "seed1": "Ice",
+      "seed2": "Glass Block",
+      "image_path": "item_sprites/Ice_Sculptures.png"
+    },
+    {
+      "item": "Jungle Pillar",
+      "seed1": "Pillar",
+      "seed2": "Ancient Block",
+      "image_path": "item_sprites/Jungle_Pillar.png"
+    },
+    {
+      "item": "Knight Helmet",
+      "seed1": "Grimstone",
+      "seed2": "Steel Girder",
+      "image_path": "item_sprites/Knight_Helmet.png"
+    },
+    {
+      "item": "Locked Adventure Door",
+      "seed1": "Adventure Item - Key",
+      "seed2": "Barn Door",
+      "image_path": "item_sprites/Locked_Adventure_Door.png"
+    },
+    {
+      "item": "Mega Rock Speaker",
+      "seed1": "Boombox",
+      "seed2": "Sheet Music: Flat Piano",
+      "image_path": "item_sprites/Mega_Rock_Speaker.png"
+    },
+    {
+      "item": "Microwave",
+      "seed1": "Television",
+      "seed2": "Toxic Waste Barrel",
+      "image_path": "item_sprites/Microwave.png"
+    },
+    {
+      "item": "Movie Camera",
+      "seed1": "Porthole",
+      "seed2": "Space Connector",
+      "image_path": "item_sprites/Movie_Camera.png"
+    },
+    {
+      "item": "Ninja Mask",
+      "seed1": "The Darkness",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Ninja_Mask.png"
+    },
+    {
+      "item": "Ninja Slippers",
+      "seed1": "The Darkness",
+      "seed2": "Brown Block",
+      "image_path": "item_sprites/Ninja_Slippers.png"
+    },
+    {
+      "item": "Ninja Tights",
+      "seed1": "The Darkness",
+      "seed2": "Purple Block",
+      "image_path": "item_sprites/Ninja_Tights.png"
+    },
+    {
+      "item": "Ninja Vest",
+      "seed1": "The Darkness",
+      "seed2": "Blue Block",
+      "image_path": "item_sprites/Ninja_Vest.png"
+    },
+    {
+      "item": "Orange Wallpaper",
+      "seed1": "Orange Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Orange_Wallpaper.png"
+    },
+    {
+      "item": "Pastel Bunny Block",
+      "seed1": "Magic Egg",
+      "seed2": "Clouds",
+      "image_path": "item_sprites/Pastel_Bunny_Block.png"
+    },
+    {
+      "item": "Pastel Tie",
+      "seed1": "Magic Egg",
+      "seed2": "Ladder",
+      "image_path": "item_sprites/Pastel_Tie.png"
+    },
+    {
+      "item": "Phone Booth",
+      "seed1": "Password Door",
+      "seed2": "Amber Glass",
+      "image_path": "item_sprites/Phone_Booth.png"
+    },
+    {
+      "item": "Pinball Sproinger",
+      "seed1": "Pinball Bumper",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Pinball_Sproinger.png"
+    },
+    {
+      "item": "Pith Helmet",
+      "seed1": "Pillar",
+      "seed2": "Sandstone",
+      "image_path": "item_sprites/Pith_Helmet.png"
+    },
+    {
+      "item": "Puffy Orange Jacket",
+      "seed1": "Clouds",
+      "seed2": "Orange Stuff",
+      "image_path": "item_sprites/Puffy_Orange_Jacket.png"
+    },
+    {
+      "item": "Purple Wallpaper",
+      "seed1": "Purple Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Purple_Wallpaper.png"
+    },
+    {
+      "item": "Red Sun Dress",
+      "seed1": "Solar Panel",
+      "seed2": "Red Block",
+      "image_path": "item_sprites/Red_Sun_Dress.png"
+    },
+    {
+      "item": "Red Wallpaper",
+      "seed1": "Red Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Red_Wallpaper.png"
+    },
+    {
+      "item": "Rhinestone Evening Dress",
+      "seed1": "Marquee Block",
+      "seed2": "Sandstone",
+      "image_path": "item_sprites/Rhinestone_Evening_Dress.png"
+    },
+    {
+      "item": "Sheet Music: Repeat End",
+      "seed1": "Sheet Music: Blank",
+      "seed2": "Race End Flag",
+      "image_path": "item_sprites/Sheet_Music_Repeat_End.png"
+    },
+    {
+      "item": "Showgirl Top",
+      "seed1": "Blue Star Wallpaper",
+      "seed2": "Ice",
+      "image_path": "item_sprites/Showgirl_Top.png"
+    },
+    {
+      "item": "Simple Purple Dress",
+      "seed1": "Pastel Purple Block",
+      "seed2": "Pastel Purple Flower Block",
+      "image_path": "item_sprites/Simple_Purple_Dress.png"
+    },
+    {
+      "item": "Snowy Rocks",
+      "seed1": "Ice",
+      "seed2": "Rock",
+      "image_path": "item_sprites/Snowy_Rocks.png"
+    },
+    {
+      "item": "Spirit Storage Unit",
+      "seed1": "Adventure Item - Key",
+      "seed2": "Ancient Stone Gate",
+      "image_path": "item_sprites/Spirit_Storage_Unit.png"
+    },
+    {
+      "item": "Sporty Goal",
+      "seed1": "Adventure Item - Rope",
+      "seed2": "Space Connector",
+      "image_path": "item_sprites/Sporty_Goal.png"
+    },
+    {
+      "item": "Starship Console Panel",
+      "seed1": "Science Station",
+      "seed2": "Starship Wall",
+      "image_path": "item_sprites/Starship_Console_Panel.png"
+    },
+    {
+      "item": "Starship Deck Ladders",
+      "seed1": "Ladder",
+      "seed2": "Starship Floor Tile",
+      "image_path": "item_sprites/Starship_Deck_Ladders.png"
+    },
+    {
+      "item": "Starship Floor Grill",
+      "seed1": "Steel Girder",
+      "seed2": "Starship Floor Tile",
+      "image_path": "item_sprites/Starship_Floor_Grill.png"
+    },
+    {
+      "item": "Starship Light Wall",
+      "seed1": "Streetlamp",
+      "seed2": "Starship Wall",
+      "image_path": "item_sprites/Starship_Light_Wall.png"
+    },
+    {
+      "item": "Starship Porthole",
+      "seed1": "Porthole",
+      "seed2": "Starship Floor Tile",
+      "image_path": "item_sprites/Starship_Porthole.png"
+    },
+    {
+      "item": "Steampunk Corset",
+      "seed1": "Steam Riser Bellows",
+      "seed2": "Diamond-Encrusted Draped Filigreed Jade Block",
+      "image_path": "item_sprites/Steampunk_Corset.png"
+    },
+    {
+      "item": "Steampunk Skirt",
+      "seed1": "Steam Lifter Piston",
+      "seed2": "Diamond-Encrusted Draped Filigreed Jade Block",
+      "image_path": "item_sprites/Steampunk_Skirt.png"
+    },
+    {
+      "item": "Steampunk Waistcoat",
+      "seed1": "Steam Gear",
+      "seed2": "Diamond-Encrusted Draped Filigreed Jade Block",
+      "image_path": "item_sprites/Steampunk_Waistcoat.png"
+    },
+    {
+      "item": "Steam Revolver",
+      "seed1": "Roulette Wheel",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Revolver.png"
+    },
+    {
+      "item": "Steam Valve",
+      "seed1": "Display Block",
+      "seed2": "Big Old Sideways Arrow",
+      "image_path": "item_sprites/Steam_Valve.png"
+    },
+    {
+      "item": "Sunken Anchor",
+      "seed1": "Steel Girder",
+      "seed2": "Deep Rock",
+      "image_path": "item_sprites/Sunken_Anchor.png"
+    },
+    {
+      "item": "Theater Seat",
+      "seed1": "Couch",
+      "seed2": "Martian Soil",
+      "image_path": "item_sprites/Theater_Seat.png"
+    },
+    {
+      "item": "Traffic Barricade",
+      "seed1": "Table Lamp",
+      "seed2": "Ladder",
+      "image_path": "item_sprites/Traffic_Barricade.png"
+    },
+    {
+      "item": "Treasure Chest",
+      "seed1": "Golden Block",
+      "seed2": "Dresser",
+      "image_path": "item_sprites/Treasure_Chest.png"
+    },
+    {
+      "item": "Undercut Hair",
+      "seed1": "The Darkness",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Undercut_Hair.png"
+    },
+    {
+      "item": "Venus Guytrap",
+      "seed1": "Magic Bacon Wallpaper",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Venus_Guytrap.png"
+    },
+    {
+      "item": "Weeping Willow",
+      "seed1": "Sequoia Tree",
+      "seed2": "Weeping Willow Branch",
+      "image_path": "item_sprites/Weeping_Willow.png"
+    },
+    {
+      "item": "White Wallpaper",
+      "seed1": "White Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/White_Wallpaper.png"
+    },
+    {
+      "item": "Winterfest Checkpoint",
+      "seed1": "Ice",
+      "seed2": "Checkpoint",
+      "image_path": "item_sprites/Winterfest_Checkpoint.png"
+    },
+    {
+      "item": "Wizard Hats",
+      "seed1": "Bookcase",
+      "seed2": "Dreamstone Block",
+      "image_path": "item_sprites/Wizard_Hats.png"
+    },
+    {
+      "item": "Yellow Wallpaper",
+      "seed1": "Yellow Block",
+      "seed2": "Magic Bacon Wallpaper",
+      "image_path": "item_sprites/Yellow_Wallpaper.png"
+    }
+  ],
+  "Tier 12": [
+    {
+      "item": "Achievement Block",
+      "seed1": "Art Wall",
+      "seed2": "Wood Block",
+      "image_path": "item_sprites/Achievement_Block.png"
+    },
+    {
+      "item": "Adventure Item - Crystal Goblet",
+      "seed1": "Wall Like An Egyptian",
+      "seed2": "Fishbowl",
+      "image_path": "item_sprites/Adventure_Item_-_Crystal_Goblet.png"
+    },
+    {
+      "item": "Adventure Item - Torch",
+      "seed1": "Wall Like An Egyptian",
+      "seed2": "Fireplace",
+      "image_path": "item_sprites/Adventure_Item_-_Torch.png"
+    },
+    {
+      "item": "Adventure Pedestal",
+      "seed1": "Adventure Item - Golden Idol",
+      "seed2": "Cave Platform",
+      "image_path": "item_sprites/Adventure_Pedestal.png"
+    },
+    {
+      "item": "Adventure's End",
+      "seed1": "Adventure Checkpoint",
+      "seed2": "Race End Flag",
+      "image_path": "item_sprites/Adventure's_End.png"
+    },
+    {
+      "item": "Angry Adventure Gorilla",
+      "seed1": "Adventure Item - Banana",
+      "seed2": "Stalagmite",
+      "image_path": "item_sprites/Angry_Adventure_Gorilla.png"
+    },
+    {
+      "item": "Astronaut Pack",
+      "seed1": "Traffic Barricade",
+      "seed2": "Super Crate Box",
+      "image_path": "item_sprites/Astronaut_Pack.png"
+    },
+    {
+      "item": "Audio Gear",
+      "seed1": "Mega Rock Speaker",
+      "seed2": "Military Radio",
+      "image_path": "item_sprites/Audio_Gear.png"
+    },
+    {
+      "item": "Beehive",
+      "seed1": "Hanging Guytrap",
+      "seed2": "Pastel Orange Flower Block",
+      "image_path": "item_sprites/Beehive.png"
+    },
+    {
+      "item": "Blue Portal",
+      "seed1": "High Tech Block",
+      "seed2": "Blue Block",
+      "image_path": "item_sprites/Blue_Portal.png"
+    },
+    {
+      "item": "Campfire",
+      "seed1": "Fireplace",
+      "seed2": "Cactus",
+      "image_path": "item_sprites/Campfire.png"
+    },
+    {
+      "item": "Cannon",
+      "seed1": "Fireplace",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Cannon.png"
+    },
+    {
+      "item": "Cardboard Box",
+      "seed1": "Brown Wallpaper",
+      "seed2": "Happy Joy Plaque",
+      "image_path": "item_sprites/Cardboard_Box.png"
+    },
+    {
+      "item": "Chalkboard",
+      "seed1": "Grey Wallpaper",
+      "seed2": "Painting: Yerfdog",
+      "image_path": "item_sprites/Chalkboard.png"
+    },
+    {
+      "item": "Chandelier",
+      "seed1": "Fireplace",
+      "seed2": "Golden Block",
+      "image_path": "item_sprites/Chandelier.png"
+    },
+    {
+      "item": "Chemsynth Stirrer",
+      "seed1": "Chemsynth Tank",
+      "seed2": "Steam Revolver",
+      "image_path": "item_sprites/Chemsynth_Stirrer.png"
+    },
+    {
+      "item": "Clapboard",
+      "seed1": "Traffic Barricade",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Clapboard.png"
+    },
+    {
+      "item": "Combat Vest",
+      "seed1": "Green Wallpaper",
+      "seed2": "Aqua Wallpaper",
+      "image_path": "item_sprites/Combat_Vest.png"
+    },
+    {
+      "item": "Compu Panel",
+      "seed1": "High Tech Block",
+      "seed2": "Neon Lights",
+      "image_path": "item_sprites/Compu_Panel.png"
+    },
+    {
+      "item": "Crimson Eagle Wings",
+      "seed1": "Red Wallpaper",
+      "seed2": "Blue Wallpaper",
+      "image_path": "item_sprites/Crimson_Eagle_Wings.png"
+    },
+    {
+      "item": "Cuddly Bunny",
+      "seed1": "Magic Egg",
+      "seed2": "Fishbowl",
+      "image_path": "item_sprites/Cuddly_Bunny.png"
+    },
+    {
+      "item": "Curly Hair",
+      "seed1": "Stone Wall",
+      "seed2": "Blackrock Wall",
+      "image_path": "item_sprites/Curly_Hair.png"
+    },
+    {
+      "item": "Dark Aqua Wallpaper",
+      "seed1": "Black Wallpaper",
+      "seed2": "Aqua Wallpaper",
+      "image_path": "item_sprites/Dark_Aqua_Wallpaper.png"
+    },
+    {
+      "item": "Dark Blue Wallpaper",
+      "seed1": "Blackrock Wall",
+      "seed2": "Dark Blue Block",
+      "image_path": "item_sprites/Dark_Blue_Wallpaper.png"
+    },
+    {
+      "item": "Dark Brown Wallpaper",
+      "seed1": "Black Wallpaper",
+      "seed2": "Brown Wallpaper",
+      "image_path": "item_sprites/Dark_Brown_Wallpaper.png"
+    },
+    {
+      "item": "Dark Green Wallpaper",
+      "seed1": "Blackrock Wall",
+      "seed2": "Dark Green Block",
+      "image_path": "item_sprites/Dark_Green_Wallpaper.png"
+    },
+    {
+      "item": "Dark Grey Wallpaper",
+      "seed1": "Black Wallpaper",
+      "seed2": "Grey Wallpaper",
+      "image_path": "item_sprites/Dark_Grey_Wallpaper.png"
+    },
+    {
+      "item": "Dark Orange Wallpaper",
+      "seed1": "Black Wallpaper",
+      "seed2": "Orange Wallpaper",
+      "image_path": "item_sprites/Dark_Orange_Wallpaper.png"
+    },
+    {
+      "item": "Dark Purple Wallpaper",
+      "seed1": "Black Wallpaper",
+      "seed2": "Purple Wallpaper",
+      "image_path": "item_sprites/Dark_Purple_Wallpaper.png"
+    },
+    {
+      "item": "Dark Red Wallpaper",
+      "seed1": "Blackrock Wall",
+      "seed2": "Red Wallpaper",
+      "image_path": "item_sprites/Dark_Red_Wallpaper.png"
+    },
+    {
+      "item": "Dark Yellow Wallpaper",
+      "seed1": "Black Wallpaper",
+      "seed2": "Yellow Wallpaper",
+      "image_path": "item_sprites/Dark_Yellow_Wallpaper.png"
+    },
+    {
+      "item": "Dice Block",
+      "seed1": "Art Wall",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Dice_Block.png"
+    },
+    {
+      "item": "Diving Bell",
+      "seed1": "Fishbowl",
+      "seed2": "Steel Block",
+      "image_path": "item_sprites/Diving_Bell.png"
+    },
+    {
+      "item": "Dragon Gate",
+      "seed1": "Venus Guytrap",
+      "seed2": "Portcullis",
+      "image_path": "item_sprites/Dragon_Gate.png"
+    },
+    {
+      "item": "Evil Brick Background",
+      "seed1": "Evil Bricks",
+      "seed2": "Red Wallpaper",
+      "image_path": "item_sprites/Evil_Brick_Background.png"
+    },
+    {
+      "item": "Explorer's Shovel",
+      "seed1": "Sunken Anchor",
+      "seed2": "Pencil",
+      "image_path": "item_sprites/Explorer's_Shovel.png"
+    },
+    {
+      "item": "Fairy Crown",
+      "seed1": "Grass",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Fairy_Crown.png"
+    },
+    {
+      "item": "Fairy Dress",
+      "seed1": "Aqua Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Fairy_Dress.png"
+    },
+    {
+      "item": "Fairy Skirt",
+      "seed1": "Daisy",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Fairy_Skirt.png"
+    },
+    {
+      "item": "Fairy Slippers",
+      "seed1": "Poppy",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Fairy_Slippers.png"
+    },
+    {
+      "item": "Fairy Wand",
+      "seed1": "Wood Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Fairy_Wand.png"
+    },
+    {
+      "item": "Fairy Wings",
+      "seed1": "Flowery Wallpaper",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Fairy_Wings.png"
+    },
+    {
+      "item": "Fashion Purse",
+      "seed1": "Cave Entrance",
+      "seed2": "Jade Block",
+      "image_path": "item_sprites/Fashion_Purse.png"
+    },
+    {
+      "item": "Fire Hydrant",
+      "seed1": "Red Wallpaper",
+      "seed2": "Water Bucket",
+      "image_path": "item_sprites/Fire_Hydrant.png"
+    },
+    {
+      "item": "Fish Tank",
+      "seed1": "Fishbowl",
+      "seed2": "Glass Pane",
+      "image_path": "item_sprites/Fish_Tank.png"
+    },
+    {
+      "item": "Flatscreen TV",
+      "seed1": "Black Wallpaper",
+      "seed2": "Television",
+      "image_path": "item_sprites/Flatscreen_TV.png"
+    },
+    {
+      "item": "Foam Finger",
+      "seed1": "White Wallpaper",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/Foam_Finger.png"
+    },
+    {
+      "item": "Gateway To Adventure",
+      "seed1": "Aqua Wallpaper",
+      "seed2": "Ancient Stone Gate",
+      "image_path": "item_sprites/Gateway_To_Adventure.png"
+    },
+    {
+      "item": "Giant Clam",
+      "seed1": "Treasure Chest",
+      "seed2": "Deep Sand",
+      "image_path": "item_sprites/Giant_Clam.png"
+    },
+    {
+      "item": "Giant Red Bow",
+      "seed1": "Red Wallpaper",
+      "seed2": "Velvet Rope",
+      "image_path": "item_sprites/Giant_Red_Bow.png"
+    },
+    {
+      "item": "Golden Halo",
+      "seed1": "Yellow Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Golden_Halo.png"
+    },
+    {
+      "item": "Golf Pants",
+      "seed1": "Purple Wallpaper",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Golf_Pants.png"
+    },
+    {
+      "item": "Gothic Building",
+      "seed1": "Orange Wallpaper",
+      "seed2": "Blackrock Wall",
+      "image_path": "item_sprites/Gothic_Building.png"
+    },
+    {
+      "item": "Great White Shark",
+      "seed1": "White Wallpaper",
+      "seed2": "Venus Guytrap",
+      "image_path": "item_sprites/Great_White_Shark.png"
+    },
+    {
+      "item": "Growies Cap",
+      "seed1": "Blue Mailbox",
+      "seed2": "Devilfruit",
+      "image_path": "item_sprites/Growies_Cap.png"
+    },
+    {
+      "item": "Hammer Pants",
+      "seed1": "Purple Wallpaper",
+      "seed2": "Tangram Block",
+      "image_path": "item_sprites/Hammer_Pants.png"
+    },
+    {
+      "item": "Hanging Snake",
+      "seed1": "Venus Guytrap",
+      "seed2": "Overgrown Vines",
+      "image_path": "item_sprites/Hanging_Snake.png"
+    },
+    {
+      "item": "Lemon",
+      "seed1": "Yellow Wallpaper",
+      "seed2": "Pastel Yellow Block",
+      "image_path": "item_sprites/Lemon.png"
+    },
+    {
+      "item": "Man U Jersey",
+      "seed1": "Adventure Item - Banana",
+      "seed2": "Red Bricks",
+      "image_path": "item_sprites/Man_U_Jersey.png"
+    },
+    {
+      "item": "Meaty Apron",
+      "seed1": "Chicken",
+      "seed2": "Brick Background",
+      "image_path": "item_sprites/Meaty_Apron.png"
+    },
+    {
+      "item": "Moon Boots",
+      "seed1": "Pinball Sproinger",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Moon_Boots.png"
+    },
+    {
+      "item": "Movie Screen",
+      "seed1": "Television",
+      "seed2": "Grey Wallpaper",
+      "image_path": "item_sprites/Movie_Screen.png"
+    },
+    {
+      "item": "Mystery Block",
+      "seed1": "Steel Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Mystery_Block.png"
+    },
+    {
+      "item": "Neat Bun Hair",
+      "seed1": "Grimstone",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Neat_Bun_Hair.png"
+    },
+    {
+      "item": "Neutron Gun",
+      "seed1": "Steam Collector",
+      "seed2": "Transmatter Field",
+      "image_path": "item_sprites/Neutron_Gun.png"
+    },
+    {
+      "item": "Open Present Block",
+      "seed1": "Red Wallpaper",
+      "seed2": "Super Crate Box",
+      "image_path": "item_sprites/Open_Present_Block.png"
+    },
+    {
+      "item": "Open Sign",
+      "seed1": "Street Sign",
+      "seed2": "White Wallpaper",
+      "image_path": "item_sprites/Open_Sign.png"
+    },
+    {
+      "item": "Orange Portal",
+      "seed1": "High Tech Wall",
+      "seed2": "Orange Block",
+      "image_path": "item_sprites/Orange_Portal.png"
+    },
+    {
+      "item": "Orange Shirt",
+      "seed1": "Orange Wallpaper",
+      "seed2": "Poppy",
+      "image_path": "item_sprites/Orange_Shirt.png"
+    },
+    {
+      "item": "Overalls",
+      "seed1": "Barrel",
+      "seed2": "Blue Wallpaper",
+      "image_path": "item_sprites/Overalls.png"
+    },
+    {
+      "item": "Pink Pageboy",
+      "seed1": "Guestbook",
+      "seed2": "Pastel Pink Block",
+      "image_path": "item_sprites/Pink_Pageboy.png"
+    },
+    {
+      "item": "Plain White Tee",
+      "seed1": "White Wallpaper",
+      "seed2": "White Block",
+      "image_path": "item_sprites/Plain_White_Tee.png"
+    },
+    {
+      "item": "Rainbow Wig",
+      "seed1": "Rainbow Block",
+      "seed2": "Fireplace",
+      "image_path": "item_sprites/Rainbow_Wig.png"
+    },
+    {
+      "item": "Refrigerator",
+      "seed1": "Ice",
+      "seed2": "Treasure Chest",
+      "image_path": "item_sprites/Refrigerator.png"
+    },
+    {
+      "item": "Ruby Slippers",
+      "seed1": "Red Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Ruby_Slippers.png"
+    },
+    {
+      "item": "Sack O' Joy",
+      "seed1": "Note Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Sack_O'_Joy.png"
+    },
+    {
+      "item": "Sarong",
+      "seed1": "Purple Wallpaper",
+      "seed2": "Golden Block",
+      "image_path": "item_sprites/Sarong.png"
+    },
+    {
+      "item": "Saturday Night Vest",
+      "seed1": "Golden Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/Saturday_Night_Vest.png"
+    },
+    {
+      "item": "Sewing Machine",
+      "seed1": "Movie Camera",
+      "seed2": "Cash Register",
+      "image_path": "item_sprites/Sewing_Machine.png"
+    },
+    {
+      "item": "Smarty Pants",
+      "seed1": "White Wallpaper",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Smarty_Pants.png"
+    },
+    {
+      "item": "Snowmobile",
+      "seed1": "Mega Rock Speaker",
+      "seed2": "Orange Stuff",
+      "image_path": "item_sprites/Snowmobile.png"
+    },
+    {
+      "item": "Skeleton",
+      "seed1": "Grey Wallpaper",
+      "seed2": "Ice",
+      "image_path": "item_sprites/Skeleton.png"
+    },
+    {
+      "item": "Slot Machine",
+      "seed1": "Roulette Wheel",
+      "seed2": "Yellow Wallpaper",
+      "image_path": "item_sprites/Slot_Machine.png"
+    },
+    {
+      "item": "Space Helmet",
+      "seed1": "Fishbowl",
+      "seed2": "Checkpoint",
+      "image_path": "item_sprites/Space_Helmet.png"
+    },
+    {
+      "item": "Sproingy Eyes",
+      "seed1": "Apple",
+      "seed2": "Pinball Sproinger",
+      "image_path": "item_sprites/Sproingy_Eyes.png"
+    },
+    {
+      "item": "Star Tool",
+      "seed1": "Starship Console Panel",
+      "seed2": "Teeny Blocks",
+      "image_path": "item_sprites/Star_Tool.png"
+    },
+    {
+      "item": "Steam Launcher",
+      "seed1": "Pinball Sproinger",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Launcher.png"
+    },
+    {
+      "item": "Steam Organ",
+      "seed1": "Drumkit",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Organ.png"
+    },
+    {
+      "item": "Steam Vent",
+      "seed1": "Air Conditioner",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Vent.png"
+    },
+    {
+      "item": "Stove",
+      "seed1": "Lava Rock",
+      "seed2": "High Tech Block",
+      "image_path": "item_sprites/Stove.png"
+    },
+    {
+      "item": "Stylin' Dress",
+      "seed1": "Flower Checkpoint",
+      "seed2": "Jade Block",
+      "image_path": "item_sprites/Stylin'_Dress.png"
+    },
+    {
+      "item": "Surgical Tool",
+      "seed1": "High Tech Wall",
+      "seed2": "Biohazard Sign",
+      "image_path": "item_sprites/Surgical_Tool.png"
+    },
+    {
+      "item": "The Adventure Begins",
+      "seed1": "Adventure Checkpoint",
+      "seed2": "Race Start Flag",
+      "image_path": "item_sprites/The_Adventure_Begins.png"
+    },
+    {
+      "item": "Theater Curtain",
+      "seed1": "Red Wallpaper",
+      "seed2": "Window Curtains",
+      "image_path": "item_sprites/Theater_Curtain.png"
+    },
+    {
+      "item": "Time-Space Rupture",
+      "seed1": "High Tech Wall",
+      "seed2": "House Entrance",
+      "image_path": "item_sprites/Time-Space_Rupture.png"
+    },
+    {
+      "item": "War Paint",
+      "seed1": "Tomato",
+      "seed2": "Fire Escape",
+      "image_path": "item_sprites/War_Paint.png"
+    },
+    {
+      "item": "Wetsuit Pants",
+      "seed1": "Black Wallpaper",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Wetsuit_Pants.png"
+    },
+    {
+      "item": "Wetsuit Top",
+      "seed1": "Black Wallpaper",
+      "seed2": "Swiss Cheese Block",
+      "image_path": "item_sprites/Wetsuit_Top.png"
+    },
+    {
+      "item": "White Bellbottoms",
+      "seed1": "White Block",
+      "seed2": "Disco Ball",
+      "image_path": "item_sprites/White_Bellbottoms.png"
+    },
+    {
+      "item": "Winter Scarf",
+      "seed1": "Snowy Rocks",
+      "seed2": "Aqua Block",
+      "image_path": "item_sprites/Winter_Scarf.png"
+    },
+    {
+      "item": "Wizard's Robe",
+      "seed1": "Purple Wallpaper",
+      "seed2": "Happy Joy Plaque",
+      "image_path": "item_sprites/Wizard's_Robe.png"
+    },
+    {
+      "item": "Zeta Reticulant Mask",
+      "seed1": "Military Radio",
+      "seed2": "Grey Wallpaper",
+      "image_path": "item_sprites/Zeta_Reticulant_Mask.png"
+    }
+  ],
+  "Tier 13": [
+    {
+      "item": "Action Hero Stubble",
+      "seed1": "Movie Screen",
+      "seed2": "Tiger Block",
+      "image_path": "item_sprites/Action_Hero_Stubble.png"
+    },
+    {
+      "item": "Adventure Brazier",
+      "seed1": "Campfire",
+      "seed2": "Torch",
+      "image_path": "item_sprites/Adventure_Brazier.png"
+    },
+    {
+      "item": "Adventure Idol Gate",
+      "seed1": "Dragon Gate",
+      "seed2": "Yellow Block",
+      "image_path": "item_sprites/Adventure_Idol_Gate.png"
+    },
+    {
+      "item": "Apron",
+      "seed1": "Stove",
+      "seed2": "Checker Wallpaper",
+      "image_path": "item_sprites/Apron.png"
+    },
+    {
+      "item": "Art Deco Block",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Art_Deco_Block.png"
+    },
+    {
+      "item": "Blueberry Pie",
+      "seed1": "Stove",
+      "seed2": "Blueberry",
+      "image_path": "item_sprites/Blueberry_Pie.png"
+    },
+    {
+      "item": "Blue Hardhat",
+      "seed1": "Beehive",
+      "seed2": "Pastel Blue Wallpaper",
+      "image_path": "item_sprites/Blue_Hardhat.png"
+    },
+    {
+      "item": "Blue Headband",
+      "seed1": "Golden Halo",
+      "seed2": "Race Start Flag",
+      "image_path": "item_sprites/Blue_Headband.png"
+    },
+    {
+      "item": "Bulletin Board",
+      "seed1": "Lattice Background",
+      "seed2": "Chalkboard",
+      "image_path": "item_sprites/Bulletin_Board.png"
+    },
+    {
+      "item": "Caveman Hair",
+      "seed1": "Skeleton",
+      "seed2": "Terracotta Pot",
+      "image_path": "item_sprites/Caveman_Hair.png"
+    },
+    {
+      "item": "Cavewoman Hair",
+      "seed1": "Skeleton",
+      "seed2": "Wheat",
+      "image_path": "item_sprites/Cavewoman_Hair.png"
+    },
+    {
+      "item": "Chef Hat",
+      "seed1": "Stove",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Chef_Hat.png"
+    },
+    {
+      "item": "Cigar",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Lava Rock",
+      "image_path": "item_sprites/Cigar.png"
+    },
+    {
+      "item": "Clouds Background",
+      "seed1": "Dark Grey Wallpaper",
+      "seed2": "Clouds",
+      "image_path": "item_sprites/Clouds_Background.png"
+    },
+    {
+      "item": "Command - Long Shot",
+      "seed1": "Compu Panel",
+      "seed2": "Exclamation Sign",
+      "image_path": "item_sprites/Command_-_Long_Shot.png"
+    },
+    {
+      "item": "Cow",
+      "seed1": "Refrigerator",
+      "seed2": "Brown Block",
+      "image_path": "item_sprites/Cow.png"
+    },
+    {
+      "item": "Dame's Fedora",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Poppy",
+      "image_path": "item_sprites/Dame's_Fedora.png"
+    },
+    {
+      "item": "Dark Walnut Block",
+      "seed1": "Dark Brown Wallpaper",
+      "seed2": "Dark Brown Block",
+      "image_path": "item_sprites/Dark_Walnut_Block.png"
+    },
+    {
+      "item": "Dark Walnut Ladders",
+      "seed1": "Dark Brown Wallpaper",
+      "seed2": "Starship Deck Ladders",
+      "image_path": "item_sprites/Dark_Walnut_Ladders.png"
+    },
+    {
+      "item": "Dark Walnut Wall",
+      "seed1": "Dark Brown Wallpaper",
+      "seed2": "Red Wood Wall",
+      "image_path": "item_sprites/Dark_Walnut_Wall.png"
+    },
+    {
+      "item": "Dinosaur Wallpaper",
+      "seed1": "Dark Green Wallpaper",
+      "seed2": "Prehistoric Palm",
+      "image_path": "item_sprites/Dinosaur_Wallpaper.png"
+    },
+    {
+      "item": "Director's Chair",
+      "seed1": "Theater Curtain",
+      "seed2": "Wooden Chair",
+      "image_path": "item_sprites/Director's_Chair.png"
+    },
+    {
+      "item": "Eyepatch",
+      "seed1": "Cannon",
+      "seed2": "Cuzco Wall Mount",
+      "image_path": "item_sprites/Eyepatch.png"
+    },
+    {
+      "item": "E-Z Cook Oven",
+      "seed1": "Stove",
+      "seed2": "Pastel Pink Block",
+      "image_path": "item_sprites/E-Z_Cook_Oven.png"
+    },
+    {
+      "item": "Fedora",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Black Block",
+      "image_path": "item_sprites/Fedora.png"
+    },
+    {
+      "item": "Fish Medicine",
+      "seed1": "Lemon",
+      "seed2": "Seaweed",
+      "image_path": "item_sprites/Fish_Medicine.png"
+    },
+    {
+      "item": "Flaming Skull Mask",
+      "seed1": "Skeleton",
+      "seed2": "Torch",
+      "image_path": "item_sprites/Flaming_Skull_Mask.png"
+    },
+    {
+      "item": "Flapper Dress",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Lava",
+      "image_path": "item_sprites/Flapper_Dress.png"
+    },
+    {
+      "item": "Flapper Headband",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Daisy",
+      "image_path": "item_sprites/Flapper_Headband.png"
+    },
+    {
+      "item": "Fossil Brush",
+      "seed1": "Adventure Item - Torch",
+      "seed2": "Rice",
+      "image_path": "item_sprites/Fossil_Brush.png"
+    },
+    {
+      "item": "Fountain",
+      "seed1": "Fire Hydrant",
+      "seed2": "Gargoyle",
+      "image_path": "item_sprites/Fountain.png"
+    },
+    {
+      "item": "Game Block",
+      "seed1": "Slot Machine",
+      "seed2": "Roulette Wheel",
+      "image_path": "item_sprites/Game_Block.png"
+    },
+    {
+      "item": "Goatee",
+      "seed1": "Evil Brick Background",
+      "seed2": "Cuzco Wall Mount",
+      "image_path": "item_sprites/Goatee.png"
+    },
+    {
+      "item": "Headsman's Axe",
+      "seed1": "Pencil",
+      "seed2": "Dragon Gate",
+      "image_path": "item_sprites/Headsman's_Axe.png"
+    },
+    {
+      "item": "Holiday Gift Box",
+      "seed1": "Slot Machine",
+      "seed2": "Treasure Chest",
+      "image_path": "item_sprites/Holiday_Gift_Box.png"
+    },
+    {
+      "item": "Hoop Earrings",
+      "seed1": "Golden Halo",
+      "seed2": "Poppy",
+      "image_path": "item_sprites/Hoop_Earrings.png"
+    },
+    {
+      "item": "Laboratory",
+      "seed1": "Refrigerator",
+      "seed2": "Biohazard Sign",
+      "image_path": "item_sprites/Laboratory.png"
+    },
+    {
+      "item": "Lazy Cobra",
+      "seed1": "Great White Shark",
+      "seed2": "Sand",
+      "image_path": "item_sprites/Lazy_Cobra.png"
+    },
+    {
+      "item": "Mannequin",
+      "seed1": "Skeleton",
+      "seed2": "Barrel",
+      "image_path": "item_sprites/Mannequin.png"
+    },
+    {
+      "item": "Neutron Pack",
+      "seed1": "Flatscreen TV",
+      "seed2": "Military Radio",
+      "image_path": "item_sprites/Neutron_Pack.png"
+    },
+    {
+      "item": "Oxygen Mask",
+      "seed1": "Fish Tank",
+      "seed2": "Air Vent",
+      "image_path": "item_sprites/Oxygen_Mask.png"
+    },
+    {
+      "item": "Parasol",
+      "seed1": "Clouds",
+      "seed2": "Fire Hydrant",
+      "image_path": "item_sprites/Parasol.png"
+    },
+    {
+      "item": "Pinstripe Pants",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Stripey Wallpaper",
+      "image_path": "item_sprites/Pinstripe_Pants.png"
+    },
+    {
+      "item": "Pinstripe Suit",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Rose",
+      "image_path": "item_sprites/Pinstripe_Suit.png"
+    },
+    {
+      "item": "Pirate Hat",
+      "seed1": "Cannon",
+      "seed2": "Mushroom",
+      "image_path": "item_sprites/Pirate_Hat.png"
+    },
+    {
+      "item": "Pocket Lighter",
+      "seed1": "Adventure Item - Torch",
+      "seed2": "Aqua Block",
+      "image_path": "item_sprites/Pocket_Lighter.png"
+    },
+    {
+      "item": "Red Brimmed Hat",
+      "seed1": "Dark Red Wallpaper",
+      "seed2": "Sheet Music: Sharp Sax",
+      "image_path": "item_sprites/Red_Brimmed_Hat.png"
+    },
+    {
+      "item": "Red Formal Dress",
+      "seed1": "Dark Red Wallpaper",
+      "seed2": "Sheet Music: Flat Sax",
+      "image_path": "item_sprites/Red_Formal_Dress.png"
+    },
+    {
+      "item": "Ripper Wings",
+      "seed1": "Chandelier",
+      "seed2": "Devil Horns",
+      "image_path": "item_sprites/Ripper_Wings.png"
+    },
+    {
+      "item": "Rock N' Roll Wallpaper",
+      "seed1": "Flowery Wallpaper",
+      "seed2": "Campfire",
+      "image_path": "item_sprites/Rock_N'_Roll_Wallpaper.png"
+    },
+    {
+      "item": "Roshambo Block",
+      "seed1": "Dice Block",
+      "seed2": "Boulder",
+      "image_path": "item_sprites/Roshambo_Block.png"
+    },
+    {
+      "item": "Skull Wallpaper",
+      "seed1": "Dark Grey Wallpaper",
+      "seed2": "Skeleton",
+      "image_path": "item_sprites/Skull_Wallpaper.png"
+    },
+    {
+      "item": "Space Pants",
+      "seed1": "Dice Block",
+      "seed2": "Grey Block",
+      "image_path": "item_sprites/Space_Pants.png"
+    },
+    {
+      "item": "Spatula",
+      "seed1": "Stove",
+      "seed2": "Picket Fence",
+      "image_path": "item_sprites/Spatula.png"
+    },
+    {
+      "item": "Spring Crown",
+      "seed1": "Magic Egg",
+      "seed2": "Golden Halo",
+      "image_path": "item_sprites/Spring_Crown.png"
+    },
+    {
+      "item": "Stadium",
+      "seed1": "Open Sign",
+      "seed2": "Dark Grey Block",
+      "image_path": "item_sprites/Stadium.png"
+    },
+    {
+      "item": "Starship Mess Hall Stool",
+      "seed1": "Dark Aqua Wallpaper",
+      "seed2": "Starship Wall",
+      "image_path": "item_sprites/Starship_Mess_Hall_Stool.png"
+    },
+    {
+      "item": "Starship Mess Hall Table",
+      "seed1": "Dark Aqua Wallpaper",
+      "seed2": "Starship Light Wall",
+      "image_path": "item_sprites/Starship_Mess_Hall_Table.png"
+    },
+    {
+      "item": "Statue Mouth",
+      "seed1": "Dragon Gate",
+      "seed2": "Ancient Block",
+      "image_path": "item_sprites/Statue_Mouth.png"
+    },
+    {
+      "item": "Steam Crank",
+      "seed1": "Fire Hydrant",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Crank.png"
+    },
+    {
+      "item": "Steam Scrambler",
+      "seed1": "Dice Block",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Scrambler.png"
+    },
+    {
+      "item": "Steampunk Trenchcoat",
+      "seed1": "Steam Vent",
+      "seed2": "Diamond-Encrusted Draped Filigreed Jade Block",
+      "image_path": "item_sprites/Steampunk_Trenchcoat.png"
+    },
+    {
+      "item": "Steam Stomper",
+      "seed1": "Gothic Building",
+      "seed2": "Big Old Down Arrow",
+      "image_path": "item_sprites/Steam_Stomper.png"
+    },
+    {
+      "item": "Straw Hat",
+      "seed1": "Wheat",
+      "seed2": "Golden Halo",
+      "image_path": "item_sprites/Straw_Hat.png"
+    },
+    {
+      "item": "Crimefighter Mask",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Crimefighter_Mask.png"
+    },
+    {
+      "item": "Heroic Boots",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Heroic_Boots.png"
+    },
+    {
+      "item": "Heroic Tights",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Heroic_Tights.png"
+    },
+    {
+      "item": "Muscle Shirt",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Muscle_Shirt.png"
+    },
+    {
+      "item": "Super Cape",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Super_Cape.png"
+    },
+    {
+      "item": "Super Eye Mask",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Super_Eye_Mask.png"
+    },
+    {
+      "item": "Superheroine Top",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Superheroine_Top.png"
+    },
+    {
+      "item": "Superhero Mask",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Superhero_Mask.png"
+    },
+    {
+      "item": "Super Shirt",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Super_Shirt.png"
+    },
+    {
+      "item": "Super Tights",
+      "seed1": "Gateway To Adventure",
+      "seed2": "Rainbow Block",
+      "image_path": "item_sprites/Super_Tights.png"
+    },
+    {
+      "item": "Tombstone",
+      "seed1": "Skeleton",
+      "seed2": "Granite Block",
+      "image_path": "item_sprites/Tombstone.png"
+    },
+    {
+      "item": "Tommygun",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Death Spikes",
+      "image_path": "item_sprites/Tommygun.png"
+    },
+    {
+      "item": "Transmog Crystal",
+      "seed1": "Achievement Block",
+      "seed2": "Purple Block",
+      "image_path": "item_sprites/Transmog_Crystal.png"
+    },
+    {
+      "item": "Victrola",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Olde Timey Radio",
+      "image_path": "item_sprites/Victrola.png"
+    },
+    {
+      "item": "Yeonnalligi",
+      "seed1": "Blue Portal",
+      "seed2": "Orange Portal",
+      "image_path": "item_sprites/Yeonnalligi.png"
+    }
+  ],
+  "Tier 14": [
+    {
+      "item": "Chemsynth Centrifuge",
+      "seed1": "Chemsynth Tank",
+      "seed2": "Steam Crank",
+      "image_path": "item_sprites/Chemsynth_Centrifuge.png"
+    },
+    {
+      "item": "Clouds Wallpaper",
+      "seed1": "Clouds Background",
+      "seed2": "Cloudstone Block",
+      "image_path": "item_sprites/Clouds_Wallpaper.png"
+    },
+    {
+      "item": "Cow Cube",
+      "seed1": "Cow",
+      "seed2": "Barn Door",
+      "image_path": "item_sprites/Cow_Cube.png"
+    },
+    {
+      "item": "Crowded Stadium",
+      "seed1": "Stadium",
+      "seed2": "Pastel Orange Flower Block",
+      "image_path": "item_sprites/Crowded_Stadium.png"
+    },
+    {
+      "item": "Field Grass",
+      "seed1": "Stadium",
+      "seed2": "Grass",
+      "image_path": "item_sprites/Field_Grass.png"
+    },
+    {
+      "item": "Fire Hose",
+      "seed1": "Lazy Cobra",
+      "seed2": "Toilet",
+      "image_path": "item_sprites/Fire_Hose.png"
+    },
+    {
+      "item": "Flamethrower",
+      "seed1": "Rock N' Roll Wallpaper",
+      "seed2": "Lava Cube",
+      "image_path": "item_sprites/Flamethrower.png"
+    },
+    {
+      "item": "Game Flag",
+      "seed1": "Game Block",
+      "seed2": "Race Start Flag",
+      "image_path": "item_sprites/Game_Flag.png"
+    },
+    {
+      "item": "Game Goal",
+      "seed1": "Game Block",
+      "seed2": "Race End Flag",
+      "image_path": "item_sprites/Game_Goal.png"
+    },
+    {
+      "item": "Game Grave",
+      "seed1": "Game Block",
+      "seed2": "Tombstone",
+      "image_path": "item_sprites/Game_Grave.png"
+    },
+    {
+      "item": "Heartcastle Gate",
+      "seed1": "Adventure Idol Gate",
+      "seed2": "Heartcastle Stone",
+      "image_path": "item_sprites/Heartcastle_Gate.png"
+    },
+    {
+      "item": "Home Oven",
+      "seed1": "Pocket Lighter",
+      "seed2": "Air Duct",
+      "image_path": "item_sprites/Home_Oven.png"
+    },
+    {
+      "item": "Leather Jacket",
+      "seed1": "Cow",
+      "seed2": "Deep Rock",
+      "image_path": "item_sprites/Leather_Jacket.png"
+    },
+    {
+      "item": "LOL Mannequin",
+      "seed1": "Mannequin",
+      "seed2": "Happy Joy Plaque",
+      "image_path": "item_sprites/LOL_Mannequin.png"
+    },
+    {
+      "item": "Magic Bell",
+      "seed1": "Magic Egg",
+      "seed2": "Victrola",
+      "image_path": "item_sprites/Magic_Bell.png"
+    },
+    {
+      "item": "Minotaur Mask",
+      "seed1": "Buffalo",
+      "seed2": "Deep Sand",
+      "image_path": "item_sprites/Minotaur_Mask.png"
+    },
+    {
+      "item": "Mystery Door",
+      "seed1": "Roshambo Block",
+      "seed2": "Saloon Doors",
+      "image_path": "item_sprites/Mystery_Door.png"
+    },
+    {
+      "item": "OMG Mannequin",
+      "seed1": "Mannequin",
+      "seed2": "Pointy Sign",
+      "image_path": "item_sprites/OMG_Mannequin.png"
+    },
+    {
+      "item": "Pinstripe Pants",
+      "seed1": "Time-Space Rupture",
+      "seed2": "Stripey Wallpaper",
+      "image_path": "item_sprites/Pinstripe_Pants.png"
+    },
+    {
+      "item": "Rocket Thruster",
+      "seed1": "E-Z Cook Oven",
+      "seed2": "Big Old Up Arrow",
+      "image_path": "item_sprites/Rocket_Thruster.png"
+    },
+    {
+      "item": "SAD Mannequin",
+      "seed1": "Mannequin",
+      "seed2": "Crappy Sign",
+      "image_path": "item_sprites/SAD_Mannequin.png"
+    },
+    {
+      "item": "Scoreboard",
+      "seed1": "Table Lamp",
+      "seed2": "Bulletin Board",
+      "image_path": "item_sprites/Scoreboard.png"
+    },
+    {
+      "item": "Staging Platform",
+      "seed1": "Game Block",
+      "seed2": "Mannequin",
+      "image_path": "item_sprites/Staging_Platform.png"
+    },
+    {
+      "item": "Steam Engine",
+      "seed1": "E-Z Cook Oven",
+      "seed2": "Steam Tubes",
+      "image_path": "item_sprites/Steam_Engine.png"
+    },
+    {
+      "item": "Steampunk Leggings",
+      "seed1": "Steam Stomper",
+      "seed2": "Diamond-Encrusted Draped Filigreed Jade Block",
+      "image_path": "item_sprites/Steampunk_Leggings.png"
+    },
+    {
+      "item": "Tavern Sign",
+      "seed1": "Art Deco Block",
+      "seed2": "Sign",
+      "image_path": "item_sprites/Tavern_Sign.png"
+    },
+    {
+      "item": "Toasted Face Smudges",
+      "seed1": "Pocket Lighter",
+      "seed2": "Mud Glob",
+      "image_path": "item_sprites/Toasted_Face_Smudges.png"
+    },
+    {
+      "item": "Toasted Village Background",
+      "seed1": "Pocket Lighter",
+      "seed2": "Red Wood Wall",
+      "image_path": "item_sprites/Toasted_Village_Background.png"
+    },
+    {
+      "item": "Toasted Village Door",
+      "seed1": "Pocket Lighter",
+      "seed2": "Barn Door",
+      "image_path": "item_sprites/Toasted_Village_Door.png"
+    },
+    {
+      "item": "Toasted Village Fence",
+      "seed1": "Pocket Lighter",
+      "seed2": "Rustic Fence",
+      "image_path": "item_sprites/Toasted_Village_Fence.png"
+    },
+    {
+      "item": "Toasted Villager Hat",
+      "seed1": "Pocket Lighter",
+      "seed2": "Terracotta Pot",
+      "image_path": "item_sprites/Toasted_Villager_Hat.png"
+    },
+    {
+      "item": "Toasted Villager Pants",
+      "seed1": "Pocket Lighter",
+      "seed2": "Super Crate Box",
+      "image_path": "item_sprites/Toasted_Villager_Pants.png"
+    },
+    {
+      "item": "Toasted Village Roof",
+      "seed1": "Pocket Lighter",
+      "seed2": "Wooden Platform",
+      "image_path": "item_sprites/Toasted_Village_Roof.png"
+    },
+    {
+      "item": "Toasted Villager Shirt",
+      "seed1": "Pocket Lighter",
+      "seed2": "Happy Joy Plaque",
+      "image_path": "item_sprites/Toasted_Villager_Shirt.png"
+    },
+    {
+      "item": "Toasted Villager Shoes",
+      "seed1": "Pocket Lighter",
+      "seed2": "Crappy Sign",
+      "image_path": "item_sprites/Toasted_Villager_Shoes.png"
+    },
+    {
+      "item": "Toasted Village Wall",
+      "seed1": "Pocket Lighter",
+      "seed2": "Barn Block",
+      "image_path": "item_sprites/Toasted_Village_Wall.png"
+    },
+    {
+      "item": "Toasted Village Window",
+      "seed1": "Pocket Lighter",
+      "seed2": "Wooden Window",
+      "image_path": "item_sprites/Toasted_Village_Window.png"
+    },
+    {
+      "item": "TROLL Mannequin",
+      "seed1": "Mannequin",
+      "seed2": "Danger Sign",
+      "image_path": "item_sprites/TROLL_Mannequin.png"
+    },
+    {
+      "item": "Whatchamacallit",
+      "seed1": "Laboratory",
+      "seed2": "Compu Panel",
+      "image_path": "item_sprites/Whatchamacallit.png"
+    }
+  ],
+  "Tier 15": [
+    {
+      "item": "Chemsynth Replicator",
+      "seed1": "Chemsynth Tank",
+      "seed2": "Crowded Stadium",
+      "image_path": "item_sprites/Chemsynth_Replicator.png"
+    },
+    {
+      "item": "Halfling House",
+      "seed1": "Magic Egg",
+      "seed2": "Toasted Village Wall",
+      "image_path": "item_sprites/Halfling_House.png"
+    },
+    {
+      "item": "Halfling House Door",
+      "seed1": "Magic Egg",
+      "seed2": "Toasted Village Door",
+      "image_path": "item_sprites/Halfling_House_Door.png"
+    },
+    {
+      "item": "Halfling House Roof",
+      "seed1": "Magic Egg",
+      "seed2": "Toasted Village Roof",
+      "image_path": "item_sprites/Halfling_House_Roof.png"
+    },
+    {
+      "item": "Ice Cube",
+      "seed1": "Cow Cube",
+      "seed2": "Ice",
+      "image_path": "item_sprites/Ice_Cube.png"
+    },
+    {
+      "item": "Forge",
+      "seed1": "Rocket Thruster",
+      "seed2": "Evil Brick Background",
+      "image_path": "item_sprites/Forge.png"
+    },
+    {
+      "item": "Wooden Sword",
+      "seed1": "Tavern Sign",
+      "seed2": "Happy Flower Grass",
+      "image_path": "item_sprites/Wooden_Sword.png"
+    },
+    {
+      "item": "Ye Olde Tavern Door",
+      "seed1": "Toasted Village Door",
+      "seed2": "Green Block",
+      "image_path": "item_sprites/Ye_Olde_Tavern_Door.png"
+    }
+  ],
+  "Tier 16": [
+    {
+      "item": "Frozen DNA Fragment A",
+      "seed1": "Ice Cube",
+      "seed2": "Cuzco Wall Mount",
+      "image_path": "item_sprites/Frozen_DNA_Fragment_A.png"
+    },
+    {
+      "item": "Frozen DNA Fragment B",
+      "seed1": "Ice Cube",
+      "seed2": "Buffalo",
+      "image_path": "item_sprites/Frozen_DNA_Fragment_B.png"
+    },
+    {
+      "item": "Ice Calf Leash",
+      "seed1": "Ice Cube",
+      "seed2": "Cow Cube",
+      "image_path": "item_sprites/Ice_Calf_Leash.png"
+    },
+    {
+      "item": "Steel Axe Handle",
+      "seed1": "Ice Cube",
+      "seed2": "Lazy Cobra",
+      "image_path": "item_sprites/Steel_Axe_Handle.png"
+    }
+  ],
+  "Tier 17": [
+    {
+      "item": "Mini Mammoth Leash",
+      "seed1": "Frozen DNA Fragment A",
+      "seed2": "Frozen DNA Fragment B",
+      "image_path": "item_sprites/Mini_Mammoth_Leash.png"
+    }
+  ]
+}

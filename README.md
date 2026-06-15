@@ -2,3 +2,4 @@
 # [Discord Chat Archive Viewer](https://madman38.github.io/discord-chat-archive-viewer)
 # [Hot Wheels Viewer](https://madman38.github.io/hotwheels-viewer)
 # [WCO Blocker](https://madman38.github.io/wcoblocker)
+# [GrowRecipes](https://madman38.github.io/growrecipes)
