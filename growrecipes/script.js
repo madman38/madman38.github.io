@@ -104,6 +104,11 @@ function renderTree(itemName) {
     treeContent.innerHTML = buildTreeHTML(itemName);
     scale = 1.0;
     setTimeout(() => centerOnRoot(), 50);
+
+    // Highlight the active sidebar button
+    document.querySelectorAll('.item-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.querySelector('span')?.textContent === itemName);
+    });
 }
 
 // 4. Navigation (Center, Zoom, Pan)

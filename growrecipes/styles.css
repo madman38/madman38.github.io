@@ -76,6 +76,13 @@ body {
     background: transparent; border: none; color: var(--text-main); cursor: pointer; border-radius: 6px; font-size: 0.85rem; 
 }
 .item-btn:hover { background: #30363d; }
+.item-btn.active {
+    background: #2a3a50;
+    color: #ffffff;
+    font-weight: bold;
+}
+.item-btn.active span { color: #ffffff; }
+.item-btn img { width: 20px; height: 20px; margin-right: 12px; }
 .item-btn img { width: 20px; height: 20px; margin-right: 12px; }
 
 /* Viewport & Canvas */
